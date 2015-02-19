@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Que peut-on dire de la durée des actions?</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">
+			Ce sont des actions instantanées qui se passent dans le passé.
+			</p>
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m11_image1.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Relevez toutes les actions faites par le narrateur:</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">
+			Je fumais ma pipe<br />
+			Je me proposai pour l'aider<br />
+			Je n'insistai pas<br />
+			Je lui demandai<br />
+			Ce repos ne m'était pas obligatoire<br />
+			J'étais intrigué<br />
+			Je voulais en savoir plus<br />
+			J'eus peur<br />
+			</p>
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m11_image1.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>
