@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Imaginez la première case (texte et dessin) et racontez-la en une phrase.<br />a)____________</p>
+			<br />
+			<p>À quelle étape du texte narratif correspond-elle?<br />b)_______________</p>
+			<br />
+			<p>Il manque une autre étape du schéma narratif. Laquelle?<br />c)_______________</p>
+			<br />
+			<p>Racontez-la en une phrase.<br />
+			d)______________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+		<br />
+			<p class="orange">a) Un petit garçon ouvre un album sur les girafes et lit intensément.</p>
+			<p class="orange">b) C'est la situation initiale.</p>
+			<p class="orange">c) Peut-être la troisième étape (les actions).</p>
+			<p class="orange">d) Le petit enfant passe dans la cuisine et voit une boîte de gateaux en haut d'un placard. Soudain il se rappelle ce qu'il a lu sur les girafes.</p>
+			
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m10_image2.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>

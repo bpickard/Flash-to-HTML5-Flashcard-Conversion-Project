@@ -16,7 +16,11 @@
 
 	<definition>
 		<![CDATA[
-			
+		<ol class="orange">
+			<li>Il y avait une fois, un prince qui recherchait, sans succès, une vraie princesse.</li>
+			<li>Un soir de tempête, une jeune fille demanda l'hospitalité. Afin de vérifier qu'elle était une vraie princesse, la reine cacha dans son lit un petit pois, recouvert de nombreux matelas et couettes. La princesse dormit très mal.</li>
+			<li>Alors on put voir que c'était une vraie princesse. Donc, le prince l'épousa.</li>
+		</ol>
 		]]>
 	</definition>
 

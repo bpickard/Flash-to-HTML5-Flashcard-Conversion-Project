@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Quelles sont les deux étapes manquantes pour que le schéma narratif soit complet? Racontez chaque étape manquante en quelques phrases.</p>
+			<p>Étape #2 : a)_________________</p>
+			<p>Étape #4 : b)_________________</p>
+		]]>
+	</term>
+	<definition>
+		<![CDATA[
+		<br />
+		<p class="orange">a) Soudain un orage éclate, deux gros nuages percent et la pluie se met à tomber.</p>
+		<p class="orange">b) Une gentille dame arrive et abrite le petit garçon qui n'a pas pu ouvrir son parapluie.</p>
+			
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m10_image1.jpg" width="400" />
+		 ]]>
+	</sidebar>
+</flashcard>
