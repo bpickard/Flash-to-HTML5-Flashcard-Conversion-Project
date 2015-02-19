@@ -4,14 +4,14 @@
 		<![CDATA[
 			<br />
 			<p>Reconstituez l'axe des temps du passé, lorsque le temps de référence est le passé simple.</p>
-			<img src="media/m07_arrow.jpg" width="400" />
-			<table>
-				<tr>
-					<td>(antériorité)</td>
-					<td>(temps de référence)</td>
-					<td>(futur dans le passé)</td>
+			<img  src="media/m07_arrow.jpg" width="350" style="margin-left:auto;margin-right:auto;" />
+			<table width="200">
+				<tr style="font-size:16pt">
+					<td width="33%">(antériorité)</td>
+					<td width="33%">(temps de référence)</td>
+					<td width="33%">(futur dans le passé)</td>
 				</tr>
-				<tr>
+				<tr style="font-size:16pt">
 					<td>a)___________</td>
 					<td>Passé simple</td>
 					<td>Conditionnel présent</td>
