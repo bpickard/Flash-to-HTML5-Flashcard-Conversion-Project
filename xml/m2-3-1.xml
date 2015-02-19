@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br/>
+			<table width="220">
+				<tr class="underline">
+					<td width="33%">&nbsp;</td>
+					<td width="33%"><p>Planche n&deg;1</p></td>
+					<td width="33%"><p>Planche n&deg;2</p></td>
+				</tr>
+				<tr>
+				 <td>Situation initiale</td>
+				 <td>1)</td>
+				 <td>5)</td>
+				</tr>
+				<tr>
+					<td>Element perturbateur</td>
+					<td>2)</td>
+					<td>6)</td>
+				</tr>
+					<tr>
+					<td>Evenements</td>
+					<td>3)</td>
+					<td>7)</td>
+				</tr>
+					<tr>
+					<td>Situation finale</td>
+					<td>4)</td>
+					<td>8)</td>
+				</tr>
+			</table>
+			<br/>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<p class="orange">1. Deux policiers rencontrent une dame en jupe très courte dans la rue.</p>
+			<p class="orange">2. Un des policiers croit que cette dame importune les passants.</p>
+			<p class="orange">3. Le policier lui fait la morale. Elle le giffle.</p>
+			<p class="orange">4. Cette dame part au bras du deuxième policier. On comprend que cette dame est la femme du second policier.</p>
+			<hr />
+			<p class="orange">5. Deux policiers voient passer une voiture et une caravane.</p>
+			<p class="orange">6. La caravane se décroche de la voiture sous les yeux des deux policiers.</p>
+			<p class="orange">7. Les policiers cherchent dans les bois la caravane perdue. Ils la trouvent enfin ainsi qu'une femme en tablier (femme du conducteur de la caravane) auprès d'une table dressée pour le repas.</p>
+			<p class="orange">8. Cette dame explique qu'elle croyait être arrivée au camping mais trouvait que son mari mettait du temps à garer la voiture.</p>
+		]]>
+	</definition>
+
+	<sidebar>
+	</sidebar>
+</flashcard>
