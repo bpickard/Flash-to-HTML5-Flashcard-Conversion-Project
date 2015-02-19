@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br/>
+		<table width="220">
+			<tr class="underline">
+				<td width="25%">Phrase Complex</td>
+				<td width="25%">2 phrases simples</td>
+				<td width="25%">Nom répété</td>
+				<td width="25%">Nom qui précède</td>
+			</tr>
+			<tr>
+				<td>On apprend le crime</td>
+				<td>a)______</td>
+				<td>c)______</td>
+				<td>e)______</td>
+			</tr>
+			<tr>
+				<td><strong>dont</strong> a été victime M. Mostaguen</td>
+				<td>b)______</td>
+				<td>d)______</td>
+				<td>&nbsp;</td>
+			</tr>
+		</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+		<br/>
+		<table width="220">
+
+			<tr class="underline">
+				<td width="25%">Phrase Complex</td>
+				<td width="25%">2 phrases simples</td>
+				<td width="25%">Nom répété</td>
+				<td width="25%">Nom qui précède</td>
+			</tr>
+			<tr>
+				<td>On apprend le crime</td>
+				<td>a) <span class="orange">On apprend le crime.</span></td>
+				<td>c) <span class="orange">crime</span></td>
+				<td>e) <span class="orange">victime</span></td>
+			</tr>
+			<tr>
+				<td><strong>dont</strong> a été victime M. Mostaguen</td>
+				<td>b) <span class="orange">M. Mostaguen a été victime du crime.</span></td>
+				<td>d) <span class="orange">crime</span></td>
+				<td>&nbsp;</td>
+			</tr>
+		</table>
+		]]>
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+	<p>Choisis 4 titres dans la liste du tableau. Transforme l'expansion du nom.</p>
+	<p>Par exemple,</p>
+	<p>Le gar&ccedil;on qui se taisait, Lois Lowry</p>
+	<p style='text-indent:1em;'>L'expansion est une relative : qui se taisait</p>
+	<p style='text-indent:1em;'>Je transforme en utilisant</p>
+	<p style='text-indent:2em;'>un adjectif : Le gar&ccedil;on <strong>silencieux</strong></p>
+	<p style='text-indent:2em;'>un compl&eacute;ment du nom : le gar&ccedil;on <strong>sans paroles</strong></p>
+	<p style='text-indent:1em;'>Vol de nuit, Saint-Exup&eacute;ry</p>
+	<p style='text-indent:2em;'>Vol <strong>nocturne</strong> (le compl&eacute;ment du nom est remplac&eacute; par un adjectif)</p></p>
+	<p>a) Titre:____________ Transformation:____________</p>
+	<p>b) Titre:____________ Transformation:____________</p>
+	<p>c) Titre:____________ Transformation:____________</p>
+	<p>d) Titre:____________ Transformation:____________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+	<p>a) <span class="orange">Titre : La Route de Chlifa</span></p>
+	<p class="orange">Transformation : La route qui m&egrave;ne &agrave; Chlifa</p>
+	<p>b) <span class="orange">Titre : Les Enfants de la mine</span></p>
+	<p class="orange">Transformation : Le Enfants mineurs</p>
+	<p>c) <span class="orange">Titre : Histoires press&eacute;es</span></p>
+	<p class="orange">Transformation : Histoires de l'homme rapide</p>
+	<p>d) <span class="orange">Titre : Bons Baisers de Paris</span></p>
+	<p class="orange">Transformation : Bon Baisers parisiens</p>
+		]]>		
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

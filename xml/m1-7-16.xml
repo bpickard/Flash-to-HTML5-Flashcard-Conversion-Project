@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+<p>En transformant la phrase complexe en 2 phrases simples, je remarque&nbsp;:</p>
+<p>*La r&eacute;p&eacute;tition du nom&nbsp;:&nbsp;a)________</p>
+<p>*Que ce nom est pr&eacute;c&eacute;d&eacute; d&rsquo;un autre nom&nbsp;: b)________</p>
+<p>*Quelle est la pr&eacute;position qui relie ces deux noms&nbsp;? c)________</p>
+<p>*Comment s&rsquo;appelle le deuxi&egrave;me nom reli&eacute; par cette pr&eacute;position&nbsp;? d)________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p>En transformant la phrase complexe en 2 phrases simples, je remarque&nbsp;:</p>
+<p>*La r&eacute;p&eacute;tition du nom&nbsp;:<span class="orange">crime (dont remplace ce mot qui est son ant&eacute;c&eacute;dent)</span></p>
+<p>*Que ce nom est pr&eacute;c&eacute;d&eacute; d&rsquo;un autre nom&nbsp;: <span class="orange">victime</span></p>
+<p>*Quelle est la pr&eacute;position qui relie ces deux noms&nbsp;? <span class="orange">du (victime du crime)</span></p>
+<p>*Comment s&rsquo;appelle le deuxi&egrave;me nom reli&eacute; par cette pr&eacute;position&nbsp;? <span class="orange">compl&eacute;ment du nom</span></p>
+		]]>	
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

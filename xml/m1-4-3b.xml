@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>a) La phrase est-elle grammaticalement correcte ?</p>
+<p>b) Le sens de la phrase est-il aussi pr&eacute;cis ?</p>
+<p>c) Que peut-on d&eacute;duire du r&ocirc;le de l'adjectif ?</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">a)&nbsp;Oui</p>
+<p class="orange">b)&nbsp;Non</p>
+<p class="orange">c)&nbsp;On peut l'enlever mais la phrase perd la plupart de son sens.</p>
+		]]>		
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

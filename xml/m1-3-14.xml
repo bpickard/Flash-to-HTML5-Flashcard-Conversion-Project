@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+	<p style="font-size:18pt;">
+	Vous allez composer un courrier &eacute;lectronique pour un ami (pour une amie) &eacute;tranger.<br/><br/>
+	Vous allez d&eacute;crire et parlez de ce que vous aimez. Utilisez au moins 10 adjectifs.<br/><br/>
+	Puis dans le cas d'une salle de classe &agrave; l'&eacute;cole, les &eacute;l&egrave;ves partageraient leur courrier &eacute;lectronique avec la classe.<br/><br/>
+	Trouvez une photo de vous.<br/><br/>
+	&Eacute;crivez votre texte an la regardant.
+	</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+		<p class="orange">Salut Joy,</p>
+		<p class="orange">Je m'apelle Alexandra, je suis fran&ccedil;aise et j'ai 22 ans. Mes cheveux sont blonds et cendr&eacute;s. Mes yeux sont verts et allong&eacute;s en forme d'amande. J'habite Hong Kong. C'est une ville int&eacute;ressante sur un &icirc;lot et bord&eacute;e par la mer. Il n'y a pas de mus&eacute;es tr&egrave;s importants &agrave; visiter mais on peut voir des temples magnifiques et d&eacute;couvrir des petites boutiques de cadeux.</p></p>
+		]]>	
+	</definition>
+
+	<sidebar>
+		<![CDATA[
+		<p><img src="media/image05.jpg"/></p>
+		]]>	
+	</sidebar>
+</flashcard>

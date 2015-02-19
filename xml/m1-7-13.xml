@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+	<p>&nbsp;</p>
+    <table>
+            <tr class="underline">
+                <td width="33%"><strong>Antéc</strong><strong>édent</strong></td>
+                <td width="33%"><strong>Relative</strong></td>
+                <td width="33%"><strong>Phrase simple</strong></td>
+            </tr>
+            <tr>
+                <td>Paris</td>
+                <td><strong>où</strong> il s’était rendu</td>
+                <td>Il s’était rendu à Paris</td>
+            </tr>
+            <tr>
+                <td>Concarneau</td>
+                <td><strong>o</strong><strong>ù</strong> il mène l’enquête</td>
+                <td>a) ________</td>
+            </tr>
+            <tr>
+                <td>Ce jour</td>
+                <td><strong>où</strong> le commissaire Maigret a été appelé</td>
+                <td>b) ________</td>
+            </tr>
+		</table>
+				<p><strong>J’utilise le pronom relatif où</strong></p>
+				<p>Dans les 2 premiers exemples, pour exprimer le <br/>c) ________ d’une action.</p>
+				<p>Dans le 3<sup>e</sup> exemple, où exprime le <br/>d) ________ d’une action</p>
+		]]>
+	</term>
+
+	<definition>
+			<![CDATA[
+ <p>&nbsp;</p>
+ <table>
+        <tr class="underline">
+            <td width="33%"><strong>Antécédent</strong></td>
+            <td width="33%"><strong>Relative</strong></td>
+            <td width="33%"><strong>Phrase simple</strong></td>
+        </tr>
+        <tr>
+            <td>Paris</td>
+            <td><strong>où</strong> il s’était rendu</td>
+            <td>Il s’était rendu à Paris</td>
+        </tr>
+        <tr>
+            <td>Concarneau</td>
+            <td><strong>o</strong><strong>ù</strong> il mène l’enquête</td>
+            <td><span class="orange">Il mène l’enquête à Concarneau</span></td>
+        </tr>
+        <tr>
+            <td>Ce jour</td>
+            <td><strong>où</strong> le commissaire Maigret a été appelé</td>
+            <td><span class="orange">Le commissaire Maigret a été appelé ce jour à Paris</span></td>
+        </tr>
+	</table>
+
+		<p><strong>J’utilise le pronom relatif où</strong></p>
+		<p>Dans les 2 premiers exemples, pour exprimer le <span class="orange"><strong>lieu</strong></span> d’une action.</p>
+		<p>Dans le 3<sup>e</sup> exemple, où exprime le <span class="orange"><strong>temps</strong></span> d’une action</p>
+		]]>
+</definition>
+
+	<sidebar></sidebar>
+</flashcard>

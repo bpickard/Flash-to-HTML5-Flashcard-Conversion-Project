@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Faites la liste de tous les adjectifs de nationalit&eacute;.</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">Japonais, italienne, alg&eacute;rien, grecque, br&eacute;silien, suisse, hawaienne, cor&eacute;en, turques, tunisiennes, marocaines, arabes, latine.</p></p>
+		]]>
+		
+	</definition>
+
+	<sidebar>
+		<![CDATA[
+		<img src="media/m03_image2.jpg"/>
+		]]>
+	</sidebar>
+</flashcard>

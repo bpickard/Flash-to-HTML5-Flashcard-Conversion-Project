@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta content="AJAX Flashcards" name="description">
+    <meta content="Bill Pickard" name="author">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="assets/flashcards.css"></link>
+
+</head>
+
+<body>
+    <script type="text/javascript" src="assets/flashcards.js?v=2"></script>
+    <div id="ets_cardborder">
+        <div id="ets_flashcard">
+            <p id="ets_cardText"></p>
+	    <a onclick='javascript:flipCard();'><img src="assets/sync.png" id='ets_flip'></a>
+	    <p id='ets_clickText'>Cliquez pour voir<br/> la bonne</p>
+	    <p id='ets_typeText'>Tapez votre réponse ci dessous.</p>
+            <textarea id="ets_cardType"></textarea>
+        </div>
+    </div>
+
+    <div id="ets_sidebar"></div>
+<br><br>
+<br>
+
+    <div style="clear:left;"></div>
+    <div id="ets_textHSize"></div>
+    <div id="ets_textVSize"></div>
+    
+    <script type="text/javascript">
+	var frames = parent.document.getElementsByTagName("iframe");
+	console.log(frames);
+	for(var i=0;i<frames.length;i++){
+		var curName = String(frames[i].id);
+		var hashName = String(this.location.hash)
+		curName = "#"+curName;
+
+		if(hashName===curName){
+			loadFlashCard(frames[i].attributes.data.value,hashName);
+		}	
+	}
+    </script>
+</body>
+</html>

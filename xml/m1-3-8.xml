@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Faites une liste de tous les adjectifs en caract&egrave;re gras du message.</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">Petit, nouvel, joli, agr&eacute;able, bel, moderne, petite, calme, grand, grands, belle, &eacute;norme, vieil, fran&ccedil;ais.</p>
+		]]>
+	</definition>
+
+	<sidebar>
+		<![CDATA[
+			<p><strong>Exercices d'application:</strong></p>
+			<p>Un bel appartement dans un quartier agréable : Phil Gautier écrit un courrier électronique à Iannis Kou</p>
+			<img src="media/m03_image1.jpg" style="width:490px;"/>
+		]]>
+	</sidebar>
+</flashcard>

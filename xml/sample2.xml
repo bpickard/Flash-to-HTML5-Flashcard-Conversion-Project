@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<img src="media/image01.png"/>
+			<p>Rappelez-vous que mots sont des adjectifs. Ils vous permettent de mieux voir quelque chose. Par exemple, le text, la ville de Vancouver.</p>
+			<p>En vous référant au premier texte (texte 1):
+			<ul>
+			   <li>faites une list de tous les adjectifs du texte</li>
+			  <li> indiquez le nom qui est décrit par l'adjectif</li>
+			  <li>indiquez le masculin de l'adjectif</li>
+			  <li>indiquez si cet adjectif est placé avant ou après le nom</li>
+			</ul>
+
+			<p>Suivez l'exemple de la première ligne du tableau.</p>
+
+			<table>
+		  	  <tr class="underline">
+			    <td width="25%">Nom décrit par l'adjectif</td>
+			    <td width="25%">L'adjectif</td>
+		            <td width="25%">Quel est le masculin singulier de l'adjectif?</td>
+			    <td width="25%">L'adjectif<br>est-il placé avant ou après le nom?</td>
+			  </tr>
+			  <tr>
+				<td><em>mot</em></td>
+				<td><em>petit</em></td>
+				<td><em>petit</em></td>
+				<td><em>avant</em></td>
+			   </tr>
+			 </table>
+		  ]]>
+		
+	</term>
+	<definition>
+		<![CDATA[
+			<table>
+			 <tr class="underline">
+			    <td width="25%">Nom décrit par l'adjectif</td>
+			    <td width="25%">L'adjectif</td>
+		        <td width="25%">Quel est le masculin singulier de l'adjectif?</td>
+			    <td width="25%">L'adjectif est-il placé avant ou après le nom?</td>
+			  </tr>
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>magnifique</td>
+			  <td>magnifique</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>sympathique</td>
+			  <td>sympathique</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>plages</td>
+			  <td>belle</td>
+			  <td>beau</td>
+			  <td>avant</td>
+			</tr>	
+			<tr class="orange">
+			  <td>plages</td>
+			  <td>ensoleilleés</td>
+			  <td>ensoleillé</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>montagnes</td>
+			  <td>grandes</td>
+			  <td>grand</td>
+			  <td>avant</td>
+			</tr>	
+			<tr class="orange">
+			  <td>montagnes</td>
+			  <td>enneigées</td>
+			  <td>enneigé</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>quartier</td>
+			  <td>joli</td>
+			  <td>joli</td>
+			  <td>avant</td>
+			</tr>	
+			<tr class="orange">
+			  <td>magasins</td>
+			  <td>italiens</td>
+			  <td>italien</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>grees</td>
+			  <td>gree</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>portugais</td>
+			  <td>portugais</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>libanais</td>
+			  <td>libanais</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>cubains</td>
+			  <td>cubains</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>gens</td>
+			  <td>jeunes</td>
+			  <td>jeune</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>langues</td>
+			  <td>différentes</td>
+			  <td>différente</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>variété</td>
+			  <td>culturelle</td>
+			  <td>culturel</td>
+			  <td>après</td>
+			</tr>
+			<tr class="orange">
+			  <td>vie</td>
+			  <td>nouvelle</td>
+			  <td>nouvel</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>Ville</td>
+			  <td>veille</td>
+			  <td>vieux</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>belle</td>
+			  <td>beau</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>méditerranéenne</td>
+			  <td>méditerranéen</td>
+			  <td>après</td>
+			</tr>
+			<tr class="orange">
+			  <td>amie</td>
+			  <td>bonne</td>
+			  <td>bon</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>amie</td>
+			  <td>canadienne</td>
+			  <td>canadien</td>
+			  <td>après</td>
+			</tr>
+			</table>
+		]]>
+	</definition>
+
+
+
+	<sidebar></sidebar>
+</flashcard>

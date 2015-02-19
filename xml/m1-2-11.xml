@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Relevez toutes les proposition relatives du texte et indiquez l'ant&eacute;c&eacute;dent.</p>
+			<p><table></p>
+			<tr class="underline">
+			    <td width="50%">L'ant&eacute;c&eacute;dent</td>
+			    <td width="50%">La proposition relative</td>
+		    </tr>
+<table>
+<tbody>
+<tr>
+<td>Un trou</td>
+<td></td>
+</tr>
+<tr>
+<td>La ruine</td>
+<td></td>
+</tr>
+<tr>
+<td>Le vent</td>
+<td></td>
+</tr>
+<tr>
+<td>Maison</td>
+<td></td>
+</tr>
+<tr>
+<td>Le soin minutieux</td>
+<td></td>
+</tr>
+<tr>
+</tbody>
+</table>
+]]>
+		
+	</term>
+
+	<definition>
+			<![CDATA[
+			<p><table></p>
+			<tr class="underline">
+			    <td width="50%">L'ant&eacute;c&eacute;dent</td>
+			    <td width="50%">La proposition relative</td>
+		    </tr>
+<table>
+<tbody>
+<tr>
+<td>Un trou</td>
+<td  class="orange">au-dessus duquel il avait install&eacute;...</td>
+</tr>
+<tr>
+<td>La ruine</td>
+<td  class="orange">qu'il avait trouv&eacute;e l&agrave;</td>
+</tr>
+<tr>
+<td>Le vent</td>
+<td  class="orange">qui le frappait</td>
+</tr>
+<tr>
+<td>Maison</td>
+<td  class="orange">o&ugrave; l'on voyait tr&egrave;s bien comment...</td>
+</tr>
+<tr>
+<td>Le soin minutieux</td>
+<td  class="orange">qui rend les reprises invisibles</td>
+</tr>
+<tr>
+</tbody>
+</table>
+]]>
+</definition>
+
+	<sidebar>
+		<![CDATA[
+		<p>Il tirait son eau - excellente - d'un trou naturel, très profond, au-dessus duquel il avait installé un treuil rudimentaire.</p>
+		<p>Cet homme parlait peu. C'est le fait des solitaires, mais on le sentait sûr de lui et confiant dans cette assurance. C'était insolite dans ce pays dépouillé de tout. Il n'habitait pas une cabane mais une vraie maison en pierre où l'on voyait très bien comment son travail personnel avait rapiécé la ruine qu'il avait trouvée là à son arrivée. Son toit était solide et étanche. Le vent qui le frappait faisait sur les tuiles le bruit de la mer sur les plages.</p>
+		]]>
+	</sidebar>
+</flashcard>

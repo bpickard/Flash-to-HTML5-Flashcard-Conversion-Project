@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Listez tous les mots / groupes de mots qui caract&eacute;risent les noms en caract&egrave;re gras dans le texte ci-dessus.</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+	<p class="orange">D'&eacute;t&eacute;, du divisionnaire Coudrier, d'hiver, &agrave; rh&eacute;ostat, n&eacute;cessaire, Empire qui ornaient la biblioth&egrave;que, des temps.</p>
+		]]>
+	</definition>
+
+	<sidebar>
+	<![CDATA[
+	<p>Même en pleine <strong>journée</strong> d’été, <strong>le bureau</strong> du divisionnaire Coudrier était du genre nocturne. À plus forte raison en pleine <strong>nuit</strong> d’hiver. <strong>Une lampe</strong> à rhéostat n’y diffusait pas plus que <strong>la lumière</strong> nécessaire. <strong>Les bibelots</strong> Empire qui ornaient la bibliothèque émergeaient de <strong>la nuit</strong> des temps.</p>
+	<p><em>La Fée Carabine</em>, Daniel Pennac.</p>
+	]]>
+	</sidebar>
+</flashcard>

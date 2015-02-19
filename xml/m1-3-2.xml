@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Rappelez-vous que mots sont des adjectifs. Ils vous permettent de mieux voir quelque chose. Par exemple, le text, la ville de Vancouver.</p>
+			<p>En vous référant au premier texte (texte 1):
+			<ul>
+			  <li>faites une list de tous les adjectifs du texte</li>
+			  <li>indiquez le nom qui est décrit par l'adjectif</li>
+			  <li>indiquez le masculin de l'adjectif</li>
+			  <li>indiquez si cet adjectif est placé avant ou après le nom</li>
+			</ul>
+
+			<p>Suivez l'exemple de la première ligne du tableau.</p>
+
+			<table>
+		  	  <tr class="underline">
+			    <td width="25%">Nom décrit par l'adjectif</td>
+			    <td width="25%">L'adjectif</td>
+		            <td width="25%">Quel est le masculin singulier de l'adjectif?</td>
+			    <td width="25%">L'adjectif<br>est-il placé avant ou après le nom?</td>
+			  </tr>
+			  <tr>
+				<td><em>mot</em></td>
+				<td><em>petit</em></td>
+				<td><em>petit</em></td>
+				<td><em>avant</em></td>
+			   </tr>
+			 </table>
+		  ]]>
+		  
+	</term>
+
+	<definition>
+		<![CDATA[
+			<table>
+			 <tr class="underline">
+			    <td width="25%">Nom décrit par l'adjectif</td>
+			    <td width="25%">L'adjectif</td>
+		        <td width="25%">Quel est le masculin singulier de l'adjectif?</td>
+			    <td width="25%">L'adjectif est-il placé avant ou après le nom?</td>
+			  </tr>
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>magnifique</td>
+			  <td>magnifique</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>sympathique</td>
+			  <td>sympathique</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>plages</td>
+			  <td>belle</td>
+			  <td>beau</td>
+			  <td>avant</td>
+			</tr>	
+			<tr class="orange">
+			  <td>plages</td>
+			  <td>ensoleilleés</td>
+			  <td>ensoleillé</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>montagnes</td>
+			  <td>grandes</td>
+			  <td>grand</td>
+			  <td>avant</td>
+			</tr>	
+			<tr class="orange">
+			  <td>montagnes</td>
+			  <td>enneigées</td>
+			  <td>enneigé</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>quartier</td>
+			  <td>joli</td>
+			  <td>joli</td>
+			  <td>avant</td>
+			</tr>	
+			<tr class="orange">
+			  <td>magasins</td>
+			  <td>italiens</td>
+			  <td>italien</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>grees</td>
+			  <td>gree</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>portugais</td>
+			  <td>portugais</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>libanais</td>
+			  <td>libanais</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>&nbsp;</td>
+			  <td>cubains</td>
+			  <td>cubains</td>
+			  <td>&nbsp;</td>
+			</tr>	
+			<tr class="orange">
+			  <td>gens</td>
+			  <td>jeunes</td>
+			  <td>jeune</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>langues</td>
+			  <td>différentes</td>
+			  <td>différente</td>
+			  <td>après</td>
+			</tr>	
+			<tr class="orange">
+			  <td>variété</td>
+			  <td>culturelle</td>
+			  <td>culturel</td>
+			  <td>après</td>
+			</tr>
+			<tr class="orange">
+			  <td>vie</td>
+			  <td>nouvelle</td>
+			  <td>nouvel</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>Ville</td>
+			  <td>veille</td>
+			  <td>vieux</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>belle</td>
+			  <td>beau</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>ville</td>
+			  <td>méditerranéenne</td>
+			  <td>méditerranéen</td>
+			  <td>après</td>
+			</tr>
+			<tr class="orange">
+			  <td>amie</td>
+			  <td>bonne</td>
+			  <td>bon</td>
+			  <td>avant</td>
+			</tr>
+			<tr class="orange">
+			  <td>amie</td>
+			  <td>canadienne</td>
+			  <td>canadien</td>
+			  <td>après</td>
+			</tr>
+			</table>
+		]]>
+	</definition>
+
+	<sidebar>
+		<![CDATA[
+	<p><em>Passons &agrave; l&rsquo;application&nbsp;: Voici ce que vous trouveriez sur un plan de le&ccedil;on concernant ces r&egrave;gles de grammaire. R&eacute;pondez aux questions tout en observant comment on fait une le&ccedil;on de grammaire par la m&eacute;thode de d&eacute;couverte.</em></p>
+  <p><strong>1. Les r&egrave;gles&nbsp;: (pour le prof seulement. On ne donne pas cette partie aux &eacute;l&egrave;ves avant qu&rsquo;ils aient d&eacute;couvert les r&egrave;gles eux-m&ecirc;mes).</strong></p>
+  <table width="100%" border="1" cellspacing="0" cellpadding="5">
+    <tr>
+      <td><ul type="disc">
+        <li>l&rsquo;adjectif      qualificatif se place en g&eacute;n&eacute;ral apr&egrave;s le nom</li>
+        <li>certains      adjectifs se placent avant le nom (beau / joli / bon / mauvais / jeune /      vieux / grand&hellip;)</li>
+        <li>les      adjectifs de nationalit&eacute; se placent toujours apr&egrave;s le nom et ne prennent      pas de majuscule</li>
+      </ul></td>
+    </tr>
+  </table>
+  <p><strong>2. Les objectifs de la le&ccedil;on&nbsp;: </strong></p>
+  <p><strong>(connaissances pr&eacute;-requises) : les &eacute;l&egrave;ves (vous) savent ce qu&rsquo;est un adjectif / comment former le f&eacute;minin et le pluriel des adjectifs)</strong></p>
+  <table width="100%" border="1" cellspacing="0" cellpadding="5">
+    <tr>
+      <td><p><strong>a) grammaticaux</strong><strong> &ndash; <em>l&rsquo;&eacute;l&egrave;ve sera capable de&nbsp;:</em></strong></p>
+        <ul type="disc">
+          <ul type="disc">
+            <li>identifier un adjectif dans un texte</li>
+            <li>reconna&icirc;tre la place de l&rsquo;adjectif (avant      ou apr&egrave;s le nom)</li>
+            <li>utiliser correctement les adjectifs de      nationalit&eacute;</li>
+          </ul>
+        </ul>
+          <p><strong>b) fonctionnels &ndash; <em>l&rsquo;&eacute;l&egrave;ve sera capable de&nbsp;:</em></strong></p>
+        <ul type="disc">
+          <ul type="disc">
+            <li>caract&eacute;riser      quelque chose / quelqu&rsquo;un</li>
+            <li>parler      de son environnement</li>
+            <li>parler      de lui/elle-m&ecirc;me</li>
+            <li>d&rsquo;&eacute;crire      un courrier &eacute;lectronique o&ugrave; il/elle d&eacute;crit son environnement &agrave; un/e ami/e      &eacute;tranger/&egrave;re</li>
+            <li>&nbsp;ami/e &eacute;tranger/&egrave;re</li>
+            <li>ami/e      &eacute;tranger/&egrave;re</li>
+          </ul>
+      </ul></td>
+    </tr>
+  </table>
+  <p><strong>3. Le d&eacute;clencheur / l&rsquo;amorce</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pour d&eacute;crire, on doit utiliser des adjectifs. Cependant, dans les textes on se rend compte que ces adjectifs sont parfois plac&eacute;s avant le nom et parfois apr&egrave;s. Il faut donc d&eacute;couvrir quelle r&egrave;gle r&eacute;git la place des adjectifs dans la phrase. Par l&rsquo;observation de texte, vous allez d&eacute;couvrir cette r&egrave;gle vous-m&ecirc;mes.</p>
+<p><strong>4. Le texte d&rsquo;observation </strong>  </p>
+<table width="100%" border="1" cellspacing="0" cellpadding="5">
+    <tr>
+      <td><p class="style2">&Agrave;&nbsp;:&nbsp;&nbsp; Isabelle@caramail.com</p>
+        <p class="style2">Bonjour Isabelle,</p>
+        <p class="style2">Je t'&eacute;cris un petit mot pour me pr&eacute;senter. </p>
+        <p class="style2">J&rsquo;habite &agrave; Vancouver qui est une ville magnifique et sympathique avec de belles plages ensoleill&eacute;es et de grandes montagnes enneig&eacute;es. </p>
+        <p class="style2">J&rsquo;habite dans l&rsquo;est de la ville, pr&egrave;s d&rsquo;une rue c&eacute;l&egrave;bre &agrave; Vancouver&nbsp;: Commercial Drive. J&rsquo;aime ce joli quartier. Il y a beaucoup de magasins italiens, portugais, grecs, cubains, libanais. Il y a aussi beaucoup de jeunes gens et beaucoup parlent des langues diff&eacute;rentes. </p>
+        <p class="style2">Cette vari&eacute;t&eacute; culturelle me pla&icirc;t beaucoup. </p>
+        <p class="style2">Comment est ta nouvelle vie, chez toi, &agrave; Marseille, cette vieille et belle ville m&eacute;diterran&eacute;enne?</p>
+        <p class="style2">Je t&rsquo;embrasse, ta bonne amie canadienne</p></td>
+    </tr>
+</table>
+  <p><strong>5. Les questions de d&eacute;couverte</strong></p>
+<p>Comparez les 2 textes suivants&nbsp;:</p><div align="center">
+  <table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+      <td width="221" valign="top"><p>Texte 1</p>
+        <p>J&rsquo;habite Vancouver, c&rsquo;est une ville   magnifique et sympathique avec de belles plages et de grandes montagnes   enneig&eacute;es.</p>
+        <p>Mon quartier est agr&eacute;able. Il y a   beaucoup de magasins italiens, grecs, portugais, libanais et cubains.</p></td>
+      <td width="221" valign="top"><p>&nbsp;Texte 2</p>
+        <p>J&rsquo;habite Vancouver. C&rsquo;est une ville   avec des plages et des montagnes.</p>
+        <p>&nbsp;</p>
+        <p>Dans mon quartier, il y a beaucoup   de magasins.</p></td>
+    </tr>
+  </table>
+  </div>
+	
+		]]>
+	</sidebar>
+</flashcard>

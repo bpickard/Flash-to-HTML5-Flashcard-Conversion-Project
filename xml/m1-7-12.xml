@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<p><strong>La règle:</strong></p>
+		<blockquote>
+			<p>* J'emploie <strong>QUI</strong> pour remplacer un nom qui serait<br/>
+			a) ____________ du verbe dans un phrase simple</p>
+			<p>* J'emploie <strong>QUE</strong> pour remplacer un nom qui serait<br/>
+			b) ____________ du verbe dans une phrase simple</p>
+		</blockquote>
+
+		<p><strong>Je récapitule:</strong></p>
+		<blockquote>
+			<p>* Au niveau de la phrase complexe, le pronom relatif sert:<br/>
+			c) ____________</p>
+
+			<p>3.5.2 Dans la proposition subordonnée, la fonction de<br/>
+			* &laquo; qui &raquo; est d) ____________<br/>
+			* &laquo; que &raquo; est e) ____________<br/>
+			* Parce que le pronom relatif a la même fonction que son antécédent</p>
+		</blockquote>
+
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+		<p><strong>La règle:</strong></p>
+		<blockquote>
+			<p>* J'emploie <strong>QUI</strong> pour remplacer un nom qui serait<br/>
+			<span class="orange">sujet</span> du verbe dans un phrase simple</p>
+			<p>* J'emploie <strong>QUE</strong> pour remplacer un nom qui serait<br/>
+			<span class="orange">complément</span> du verbe dans une phrase simple</p>
+		</blockquote>
+
+		<p><strong>Je récapitule:</strong></p>
+		<blockquote>
+			<p>* Au niveau de la phrase complexe, le pronom relatif sert:<br/>
+			<span class="orange">à relier la subordonée principale à la subordoneée relative en évitant la répétition de l'antécédent sujet out complément</span></p>
+
+			<p>3.5.2 Dans la proposition subordonnée, la fonction de<br/>
+			* &laquo; qui &raquo; est <span class="orange">sujet</span><br/>
+			* &laquo; que &raquo; est <span class="orange">complément</span><br/>
+			* Parce que le pronom relatif a la même fonction que son antécédent</p>
+		</blockquote>
+ 		]]>
+	</definition>
+
+	<sidebar></sidebar>
+
+</flashcard>
+

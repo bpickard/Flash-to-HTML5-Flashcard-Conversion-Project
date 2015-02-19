@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+<p>Invente tes titres.</p>
+<p>a) Titre avec un adjectif&nbsp;: ________</p>
+<p>b) Titre avec une relative&nbsp;: ________</p>
+<p>c) Titre avec un compl&eacute;ment du nom&nbsp;:&nbsp;________</p>
+<img src="media/image06.jpg"/>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">a) Titre avec un adjectif&nbsp;: La Chaise cass&eacute;</p>
+<p class="orange">b) Titre avec une relative&nbsp;: La Chaise qui &eacute;tait cass&eacute;e</p>
+<p class="orange">c) Titre avec un compl&eacute;ment du nom&nbsp;: La Chaise du vieil homme</p>
+		]]>		
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br/>
+		<table>
+			<tr class="underline">
+				<td width="33%" style="padding:8px;">Les antécédents</td>
+				<td width="33%" style="padding:8px;">Les relatifs</td>
+				<td width="33%" style="padding:8px;">La fonction du pronom relatif</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">Des faits troublants</td>
+				<td style="padding:8px;">qui s'enchaînent</td>
+				<td style="padding:8px;">a) ____________ </td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">commissaire Maigret</td>
+				<td style="padding:8px;">qui a été appelé par le maire</td>
+				<td style="padding:8px;">b) ____________</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">Jean Servières</td>
+				<td style="padding:8px;">que l'on voit souvent au bar de l'Hôtel l'Amiral</td>
+				<td style="padding:8px;">c) ____________</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">M. Le Pommeret</td>
+				<td style="padding:8px;">qui muert empoisonné</td>
+				<td style="padding:8px;">d) ____________</td>
+			</tr>
+			<tr>
+				<td>un article alarmiste</td>
+				<td>qui signale la présence d'un chien aux poils jaunes, maigre sur pattes</td>
+				<td>e) ____________</td>
+			</tr>
+		</table>
+		]]>
+	</term>
+
+	<definition>
+			<![CDATA[
+				<br/>
+		<table>
+			<tr class="underline">
+				<td width="33%" style="padding:8px;">Les antécédents</td>
+				<td width="33%" style="padding:8px;">Les relatifs</td>
+				<td width="33%" style="padding:8px;">La fonction du pronom relatif</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">Des faits troublants</td>
+				<td style="padding:8px;">qui s'enchaînent</td>
+				<td style="padding:8px;" class="orange">Sujet</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">commissaire Maigret</td>
+				<td style="padding:8px;">qui a été appelé par le maire</td>
+				<td style="padding:8px;" class="orange">Sujet</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">Jean Servières</td>
+				<td style="padding:8px;">que l'on voit souvent au bar de l'Hôtel l'Amiral</td>
+				<td style="padding:8px;" class="orange">Complément</td>
+			</tr>
+			<tr>
+				<td style="padding:8px;">M. Le Pommeret</td>
+				<td style="padding:8px;">qui muert empoisonné</td>
+				<td style="padding:8px;" class="orange">Sujet</td>
+			</tr>
+			<tr>
+				<td>un article alarmiste</td>
+				<td>qui signale la présence d'un chien aux poils jaunes, maigre sur pattes</td>
+				<td class="orange">Sujet</td>
+			</tr>
+		</table>
+
+		]]>
+</definition>
+
+	<sidebar></sidebar>
+</flashcard>

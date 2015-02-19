@@ -1,0 +1,129 @@
+        #ets_flashcard {
+            width:450px;
+            height:600px;
+            border:2px solid grey;
+            padding:0px 10px 0px 10px;
+            border-radius:10px;
+            position:relative;
+            }
+        #ets_cardText {
+            font-family:Times New Roman,serif;
+            font-size:18pt;
+            margin-top:-0.5em;
+            height:425px;
+            }
+	#ets_cardText table{
+		border-collapse:collapse;
+		width:450px;
+		border-spacing:0px;
+		margin-top:5px;
+	    }
+
+	#ets_cardText table td{
+		padding:2px 8px 2px 8px;
+		vertical-align:top;
+		text-align:left;
+	    }
+
+	#ets_cardText table tr.underline{
+		border-bottom:1px solid black;
+	    }
+
+	#ets_cardText img, #ets_textVSize img,#ets_textHSize img {
+	    float:right;
+	    padding:0px 5px 0px 5px;
+	}
+
+	#ets_cardText img::after{
+	    clear:both;
+	}
+
+	.orange {
+	    color:orange;
+	}
+
+        #ets_cardborder{
+            border:1px solid black;width:475px;height:610px;padding:5px;
+            float:left;
+            display:block;  
+            }
+        #ets_sidebar{
+	    font-family:Times New Roman,serif;
+	    font-size:12pt;
+            float:left;
+            width:450px;
+            height:620px;
+            margin-left:10px;
+	    overflow-y:scroll;
+	    overflow-x:hidden;
+	    word-break:keep-all;
+            padding:0px 5px 0px 5px;
+            border:1px dashed grey;
+	    display:inline-block;
+            }
+        #ets_cardType{
+            height:110px;
+            background-color:#CCCCCC;
+            border-radius:5px;
+            border:1px #CCCCCC;
+            position:absolute;
+            width:445px;
+            bottom:10px;
+	    resize:none;
+            }   
+        #ets_textHSize{
+            clear:left; 
+            padding:0;
+            font-family:Times New Roman,serif;
+            display:inline-block;
+            overflow-x:scroll;
+            overflow-y:hidden;
+            width:450px;
+            height:425px;
+	    word-break:break-all;
+	    visibility:hidden;
+            }
+
+        #ets_textVSize{
+            padding:0;
+            font-family:Times New Roman,serif;
+            display:inline-block;
+            overflow-x:hidden;
+            overflow-y:scroll;
+            width:450px;
+            height:400px;
+	    word-break:break-all;
+	    visibility:hidden;
+            }
+
+	  #ets_flip{
+	    position:absolute;
+	    right:10px;
+	    bottom:125px;
+	    cursor:pointer;
+	    
+	   }
+	   #ets_clickText{
+	     text-align:right;
+	     position:absolute;
+	     display:block;
+   	     font-size:11px;
+	     right:37px;
+	     bottom:115px;
+	     font-family:Arial,Helvetica,sans-serif;
+	    }
+	    #ets_typeText{
+	     text-align:left;
+	     position:absolute;
+	     display:block;
+   	     font-size:11px;
+	     left:11px;
+	     bottom:115px;
+	     font-family:Arial,Helvetica,sans-serif;
+
+	    }
+	 
+	    .lower-alpha{
+		list-style-type:lower-alpha;
+	     }
+	

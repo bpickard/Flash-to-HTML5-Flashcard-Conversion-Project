@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Que remarquez-vous &agrave; propos de la derni&egrave;re phrase ?</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">Elle ne comporte pas d'adjectif.</p>
+		]]>
+		
+	</definition>
+
+		<sidebar>
+		<![CDATA[
+		<img src="media/m03_image2.jpg"/>
+		]]>
+		</sidebar>
+</flashcard>

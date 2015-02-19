@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>&Eacute;crivez la r&eacute;ponse de Iannis &agrave; Philippe :</p>
+			<p>*Votre r&eacute;ponse sera de 3 linges.</p>
+			<p>*Il y aura 6 adjectifs dans votre r&eacute;ponse.<p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">Salut&nbsp;Philippe.</p>
+<p class="orange">Je suis moi-aussi dans un quartier bien agr&eacute;able et calme &agrave; Paris.</p>
+<p class="orange">Par contre, je d&eacute;pense beaucoup d'argent dans cette ville en restaurants chers et &eacute;l&eacute;gants. Tu connais mon penchant d&eacute;mesur&eacute; et incontr&ocirc;lable pour les d&eacute;couvertes gastronomiques.</p>
+<p class="orange">&Agrave; bient&ocirc;t<br/>
+<class="orange">Iannis</p>
+		]]>
+		
+	</definition>
+
+	<sidebar>
+		<![CDATA[
+			<p><strong>Exercices d'application:</strong></p>
+			<p>Un bel appartement dans un quartier agréable : Phil Gautier écrit un courrier électronique à Iannis Kou</p>
+			<img src="media/m03_image1.jpg" style="width:490px;"/>
+		]]>
+	</sidebar>
+</flashcard>

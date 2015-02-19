@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>&Agrave; partir de ce champ lexical, &eacute;crivez quelques linges que vous pourriez ins&eacute;rer dans le texte de Giono.</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">Sa table &eacute;tait propre et il avait dispos&eacute; dessus une nappe immacul&eacute;e blanche aux motifs &eacute;carlates. Il y avait un vase de fleurs fra&icirc;ches sur le comptoir nettoy&eacute; et net.</p>
+		]]>
+	</definition>
+
+	<sidebar>
+	<![CDATA[
+			<p><strong>Note culturelle&nbsp;:</strong></p>
+			<p>Le berger dont il s'agit dans l'extrait que vous avez lu se nomme&nbsp;<strong>Elz&eacute;ard Bouffier</strong>.</p>
+			<p>Voici les 2 derni&egrave;res lignes du texte de Jean Giono,&nbsp;<em>L'Homme qui plantait des arbres</em></p>
+			<p>&laquo;&nbsp;Elz&eacute;ard Bouffier est mort paisiblement en 1947 &agrave; l'hospice de Banon.&nbsp;&raquo;</p>
+			<img src="media/image02.jpg"/>
+			<p>Berger proven&ccedil;al</p>
+			<img src="media/image03.gif"/>
+			<p><strong>Banon</strong>&nbsp;est un village des&nbsp;<strong>Alpes-de-Haute-Provence</strong>, &agrave; flanc de montagne qui surplombe une vall&eacute;e. Le ciel y est d'un bleu &eacute;clatant, le soleil brille 300 jours par an.</p>
+			<p><a href="http://www.village-banon.fr/">http://www.village-banon.fr/</a></p>
+			<img src="media/image04.gif"/>
+			
+		  ]]>
+
+	</sidebar>
+</flashcard>

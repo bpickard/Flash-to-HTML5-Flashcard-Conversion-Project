@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+<p>Ensuite, &agrave; partir de la question pr&eacute;c&eacute;dente, &eacute;crivez-les sur la ligne 1 et indiquez leur nature sur la ligne 2.</p>
+    <table>
+        <tr class="underline">
+            <td width='33%'>Nom</td>
+            <td width='33%'>Mot/groupes de mots qui le caract&eacute;risent</td>
+            <td width='34%'>Nature de ce mot/groupe de mots (adjectif, nom, proposition relative)</td>
+        </tr>
+        <tr>
+            <td>
+                <strong>journ&eacute;e</strong>
+            </td>
+            <td>
+                a)
+            </td>
+            <td>
+                a)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Le bureau</strong>
+            </td>
+            <td>
+                b)
+            </td>
+            <td>
+                b)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Une nuit</strong>
+            </td>
+            <td>
+                c)
+            </td>
+            <td>
+                c)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Une lampe</strong>
+            </td>
+            <td>
+                d)
+            </td>
+            <td>
+                d)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Les bibelots</strong>
+            </td>
+            <td>
+                e)
+            </td>
+            <td>
+                e)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Les bibelots</strong>
+            </td>
+            <td>
+                f)
+            </td>
+            <td>
+                f)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>lumi&egrave;re</strong>
+            </td>
+            <td>
+                g)
+            </td>
+            <td>
+                g)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>La nuit</strong>
+            </td>
+            <td>
+                h)
+            </td>
+            <td>
+                h)
+            </td>
+        </tr>
+    </table>
+	<p>&nbsp;</p>
+		]]>
+	</term>
+	<definition>
+		<![CDATA[
+	<p>&nbsp;</p>
+	<table>
+        <tr class="underline">
+            <td width='33%'>Nom</td>
+            <td width='33%'>Mot/groupes de mots qui le caract&eacute;risent</td>
+            <td width='33%'>Nature de ce mot/groupe de mots (adjectif, nom, proposition relative)</td>
+        </tr>
+        <tr>
+            <td><strong>journ&eacute;e</strong></td>
+            <td class="orange">d'&eacute;t&eacute;</td>
+            <td class="orange">nom</td>
+        </tr>
+        <tr>
+            <td><strong>Le bureau</strong></td>
+            <td class="orange">du divisionnaire Coudrier</td>
+            <td class="orange">nom</td>
+        </tr>
+        <tr>
+            <td><strong>Une nuit</strong></td>
+            <td class="orange">d'hiver</td>
+            <td class="orange">nom</td>
+        </tr>
+        <tr>
+            <td><strong>Une lampe</strong></td>
+            <td class="orange">&agrave; rh&eacute;ostat</td>
+            <td class="orange">nom</td>
+        </tr>
+        <tr>
+            <td><strong>Les bibelots</strong></td>
+            <td class="orange">Empire</td>
+            <td class="orange">adjectif</td>
+        </tr>
+        <tr>
+            <td><strong>Les bibelots</strong></td>
+            <td class="orange">qui ornaient la biblioth&egrave;que</td>
+            <td class="orange">proposition relative</td>
+        </tr>
+        <tr>
+            <td><strong>lumi&egrave;re</strong></td>
+            <td class="orange">n&eacute;cessaire</td>
+            <td class="orange">adjectif</td>
+        </tr>
+        <tr>
+            <td><strong>La nuit</strong></td>
+            <td class="orange">des temps</td>
+            <td class="orange">nom</td>
+        </tr>
+    </table>
+	<p>&nbsp;</p>
+		]]>
+	</definition>
+	<sidebar>
+	<![CDATA[
+	<p>Même en pleine <strong>journée</strong> d’été, <strong>le bureau</strong> du divisionnaire Coudrier était du genre nocturne. À plus forte raison en pleine <strong>nuit</strong> d’hiver. <strong>Une lampe</strong> à rhéostat n’y diffusait pas plus que <strong>la lumière</strong> nécessaire. <strong>Les bibelots</strong> Empire qui ornaient la bibliothèque émergeaient de <strong>la nuit</strong> des temps.</p>
+	<p><em>La Fée Carabine</em>, Daniel Pennac.</p>
+	]]>
+	</sidebar>
+</flashcard>

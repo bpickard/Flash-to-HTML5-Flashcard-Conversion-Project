@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+<p>Essayez : Transformez la phrase suivante en 2 phrases simples, que remarquez-vous ? :</p>
+<p>Maigret soup&ccedil;onne le r&ocirc;deur&nbsp;<strong>dont</strong>&nbsp;il a rep&eacute;r&eacute; les traces.</p>
+<p>*&nbsp;Maigret&nbsp;a)________<br />*&nbsp;b)________</p>
+<p>La r&eacute;p&eacute;tition du nom :&nbsp;c________<br />Que ce nom est pr&eacute;c&eacute;d&eacute; d&rsquo;un autre nom :&nbsp;d)________<br />Quelle est la pr&eacute;position qui relie ces deux noms ?&nbsp;e)________<br />Comment s&rsquo;appelle le deuxi&egrave;me nom reli&eacute; par cette pr&eacute;position ?&nbsp;f)________</p>
+<p>&nbsp;</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p>Essayez : Transformez la phrase suivante en 2 phrases simples, que remarquez-vous ? :</p>
+<p>Maigretsoup&ccedil;onne le r&ocirc;deur dont il a rep&eacute;r&eacute; les traces.</p>
+<p>*&nbsp;Maigret <span class="orange">soup&ccedil;onne le r&ocirc;deur</span>
+<br/>*&nbsp;<span class="orange">Il a rep&eacute;r&eacute; les traces du r&ocirc;deur</span></p>
+<p>La r&eacute;p&eacute;tition du nom : rodeur (dont remplace ce mot qui est son ant&eacute;c&eacute;dent)<br />Que ce nom est pr&eacute;c&eacute;d&eacute; d&rsquo;un autre nom : traces<br />Quelle est la pr&eacute;position qui relie ces deux noms ? du (traces du rodeur)<br />Comment s&rsquo;appelle le deuxi&egrave;me nom reli&eacute; par cette pr&eacute;position ? compl&eacute;ment du nom</p>
+		]]>	
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

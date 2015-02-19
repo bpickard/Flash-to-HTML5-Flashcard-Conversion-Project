@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+<p>Transformez la proposition relative en phrase simple :</p>
+<p>Exemple : le voleur sera puni pour le crime dont il est coupable.</p>
+<p>Il est coupable du crime.</p>
+<p>L&rsquo;&eacute;quipe d&rsquo;enqu&ecirc;teurs dont Maigret est responsable travaille au 10 Quai des Orf&egrave;vres. a)________</p>
+<p>La peine dont Ernest Michaux est passible peut &ecirc;tre de vingt d&rsquo;emprisonnement. b)________</p>
+<p>Le Gu&eacute;rec sera d&eacute;barrass&eacute; de Michaux dont il &eacute;tait prisonnier. c)________</p>
+<p>Maigret suit une piste dont il est s&ucirc;r. d)________</p>
+<p>Emma n&rsquo;a jamais quitt&eacute; Concarneau, dont elle est originaire. e)________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+<p class="orange">a) Maigret est responsable de l&rsquo;&eacute;quipe des enqu&ecirc;teurs.&nbsp;</p>
+<p class="orange">b) Ernest Michaux est passible d&rsquo;une peine.</p>
+<p class="orange">c) Il &eacute;tait prisonnier de Le Gu&eacute;rec.</p>
+<p class="orange">d) Il est s&ucirc;r de la piste.</p>
+<p class="orange">e) Elle est originaire de Concarneau.</p>
+		]]>	
+	</definition>
+
+	<sidebar></sidebar>
+</flashcard>

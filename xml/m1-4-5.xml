@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Ecrivez les phrases suivantes en rempla&ccedil;ant le verbe &ecirc;tre par les verbes sembler, para&icirc;tre&nbsp;:</p>
+			<table>
+				<tr class="underline">
+					<td width='33%'>&ecirc;tre</td>
+					<td width='33%'>sembler</td>
+					<td width='34%'>para&icirc;tre</td>
+				</tr>
+				<tr>
+					<td>Le policier &eacute;tait tout jeune, imberbe</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>Son visage &eacute;tait p&eacute;tri de na&iuml;vet&eacute;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+		  ]]>
+	</term>
+
+	<definition>
+			<![CDATA[
+			<p><table></p>
+			<tr class="underline">
+			  <td width='33%'>&ecirc;tre</td>
+			  <td width='33%'>sembler</td>
+			  <td width='33%'>para&icirc;tre</td>
+		  </tr>
+		  <tr>
+		  <td>Le policier &eacute;tait tout jeune, imberbe</td>
+		  <td class="orange">Le policier semblait tout jeune, imberbe</td>
+		  <td class="orange">Le policier paraissait tout jeune, imberbe</td>
+		  </tr>
+		  <tr>
+		  <td>Son visage &eacute;tait p&eacute;tri de na&iuml;vet&eacute;</td>
+		  <td class="orange">Son visage semblait p&eacute;tri de na&iuml;vet&eacute;</td>
+		  <td class="orange">Son visage paraissait p&eacute;tri de na&iuml;vet&eacute;</td>
+		  </tr>
+		  </table>
+		  ]]>
+</definition>
+
+	<sidebar></sidebar>
+</flashcard>

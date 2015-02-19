@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<table>
+			 <tr class="underline">
+			    <td width="25%">Proposition principale<br/>avec son verbe</td>
+			    <td width="25%">Ant&eacute;c&eacute;dent</td>
+		        <td width="25%">Pronom relatif</td>
+			    <td width="25%">Proposition relative<br/>Proposition relative comme phrase simple<br/></td>
+			  </td>
+</tr>
+<tr>
+<td colspan='4' bgcolor='yellow'>
+<p>Des faits qui s&rsquo;enchainent ont cr&eacute;e la panique &agrave; Concarneau.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Des faits ont cr&eacute;&eacute; la panique &agrave; Concarneau</p>
+</td>
+<td>
+<p>faits</p>
+</td>
+<td>
+<p>qui</p>
+</td>
+<td>
+<p>qui s&rsquo;encha&icirc;nent</p>
+<p>des faits s&rsquo;encha&icirc;nent</p>
+</td>
+</tr>
+<tr>
+<td colspan='4' bgcolor='yellow'>
+<p>M. le Pommeret, qui meurt empoisonn&eacute;, dispara&icirc;t.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a) ________</p>
+</td>
+<td>
+<p>b) ________</p>
+</td>
+<td>
+<p>c) ________</p>
+</td>
+<td>
+<p>d) ________</p>
+</td>
+</tr>
+<tr>
+<td colspan='4' bgcolor='yellow'>
+<p>Ce chien jaune, qui est apparu d&egrave;s le premier soir, appartient &agrave; un r&ocirc;deur.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>e) ________</p>
+</td>
+<td>
+<p>f) ________</p>
+</td>
+<td>
+<p>g) ________</p>
+</td>
+<td>
+<p>h) ________</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+		]]>
+		
+	</term>
+
+	<definition>
+			<![CDATA[
+			<table >
+			 <tr class="underline">
+			    <td width="25%">Proposition principale<br/>avec son verbe</td>
+			    <td width="25%">Ant&eacute;c&eacute;dent</td>
+		        <td width="25%">Pronom relatif</td>
+			    <td width="25%">Proposition relative<br/>Proposition relative comme phrase simple<br/></td>
+			  </td>
+</tr>
+<tr>
+<td colspan='4' bgcolor='yellow'>
+<p>M. le Pommeret, qui meurt empoisonn&eacute;, dispara&icirc;t.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="orange">M.&nbsp; le Pommeret dispara&icirc;t</p>
+</td>
+<td>
+<p class="orange">M. le Pommeret</p>
+</td>
+<td>
+<p class="orange">qui</p>
+</td>
+<td>
+<p class="orange">Qui meurt empoisonn&eacute;</p>
+<p class="orange">M. le Pommeret meurt empoisonn&eacute;</p>
+</td>
+</tr>
+<tr>
+<td colspan='4' bgcolor='yellow'>
+<p>Ce chien jaune, qui est apparu d&egrave;s le premier soir, appartient &agrave; un r&ocirc;deur.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="orange">Ce chien jaune appartient &agrave; un r&ocirc;deur</p>
+</td>
+<td>
+<p class="orange">chien</p>
+</td>
+<td>
+<p class="orange">qui</p>
+</td>
+<td>
+<p class="orange">Qui est apparu d&egrave;s le premier soir</p>
+<p class="orange">Ce chien jaune est apparu d&egrave;s le premier soir</p>
+</td>
+</tr>
+</table><br/><br/>
+]]>
+</definition>
+
+	<sidebar></sidebar>
+</flashcard>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br/><br/>
+		<table border="1" bgcolor="#fee6f6">
+				<tr>
+					<td>
+					Recopiez le texte en supprimant toutes les expansions du nom.<br/><br/>
+					<blockquote>M&ecirc;me en pleine journ&eacute;e, le bureau &eacute;tait du genre nocturne. A plus forte raison en pleine nuit. Une lampe n'y diffusait pas plus que la lumi&egrave;re. Les bibelots &eacute;mergeaient de la nuit.</blockquote>
+					</td>
+					</td>
+				</tr>
+		</table>
+		<p>a) Ce nouveau texte est-il (syntaxiquement) correct ?</p>
+		<p>b) Comparez ce nouveau texte au texte original. Que peut-on dire des &eacute;l&eacute;ments supprim&eacute;s ? Quel est leur r&ocirc;le ?</p>
+		<p>c) Vous avez class&eacute; ces &eacute;l&eacute;ments en 3 cat&eacute;gories. Quelles sont-elles?</p>
+		<p>d) Quelle remarque peut-on faire &agrave; propos du nom&nbsp;&laquo; bibelot&nbsp;&raquo; ?</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+		<p class="orange">a)&nbsp;Oui.</p>
+		<p class="orange">b)&nbsp;Ils apportent des pr&eacute;cisions et de la coh&eacute;rence au texte car nous n'avons plus de rep&egrave;res temporels (&eacute;t&eacute;, hiver). Tout est devenu anonyme.</p>
+		<p class="orange">c)&nbsp;Les adjectifs, les noms, les compl&eacute;ments du nom, les propositions relatives.</p>
+		<p class="orange">d)&nbsp;Les bibelots sont d&eacute;crits de deux mani&egrave;res, par un adjectif et une proposition relative.</p>
+		]]>
+	</definition>
+
+	<sidebar>
+	<![CDATA[
+	<p>Même en pleine <strong>journée</strong> d’été, <strong>le bureau</strong> du divisionnaire Coudrier était du genre nocturne. À plus forte raison en pleine <strong>nuit</strong> d’hiver. <strong>Une lampe</strong> à rhéostat n’y diffusait pas plus que <strong>la lumière</strong> nécessaire. <strong>Les bibelots</strong> Empire qui ornaient la bibliothèque émergeaient de <strong>la nuit</strong> des temps.</p>
+	<p><em>La Fée Carabine</em>, Daniel Pennac.</p>
+	]]>
+	</sidebar>
+</flashcard>

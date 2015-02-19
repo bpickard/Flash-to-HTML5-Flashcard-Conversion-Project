@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<table>
+            <tr class="underline">
+                <td width="62%">
+                    <strong>Phrase simple (le pronom relatif est remplac&eacute; par son ant&eacute;c&eacute;dent)</strong>
+                </td>
+                <td width="38%">
+                    <strong>Subordonn&eacute;e relative</strong>
+                </td>
+            </tr>
+            <tr class="underline">
+                <td>
+                    <span style="background-color:yellow"><strong>*des faits</strong></span> s'encha&icirc;nent <img src="media/m07_arrow.jpg" width="70"/><br/><br/>
+                    *des faits = <strong>sujet</strong> de s&rsquo;encha&icirc;ner
+                </td>
+                <td>
+                    *<span style="background-color:yellow"><strong>qui</strong></span> s'encha&icirc;nent<br/><br/>
+                    *qui = <strong>sujet</strong> de s&rsquo;encha&icirc;ner
+                </td>
+            </tr>
+            <tr class="underline">
+                <td>
+                    *<strong>Le docteur Michoux</strong> s'attend lui aussi &agrave; &ecirc;tre assassin&eacute;<br/><br/>
+                    *Le docteur Michoux = sujet de s&rsquo;attendre
+                </td>
+                <td>
+                    *<strong>qui</strong> s'attend lui aussi &agrave; &ecirc;tre assassin&eacute;<br/><br/>
+                    *qui = a) ________
+                </td>
+            </tr>
+            <tr class="underline">
+                <td>
+                    *<strong>le vagabond</strong> s'y est r&eacute;fugi&eacute;<br/><br/>
+                    *le vagabond =&nbsp;&nbsp; sujet de s&rsquo;y est r&eacute;fugi&eacute;&nbsp;
+                </td>
+                <td>
+                   *<strong>qui</strong> s'y est r&eacute;fugi&eacute;<br/><br/>
+                   *qui = b) ________
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    *Maigret provoque <strong>une confrontation</strong> dans la cellule du docteur Michoux<br/><br/>
+                    *Une confrontation = compl&eacute;ment de provoquer
+                </td>
+                <td>
+                    *<strong>que</strong> Maigret provoque dans la cellule du docteur Michouxl<br/><br/>
+                    *que = c) ________
+                </td>
+            </tr>
+		</table>
+		]]>
+	</term>
+	<definition>
+			<![CDATA[
+	<table>
+            <tr class="underline">
+                <td width="62%">
+                    <strong>Phrase simple (le pronom relatif est remplac&eacute; par son ant&eacute;c&eacute;dent)</strong>
+                </td>
+                <td width="38%">
+                    <strong>Subordonn&eacute;e relative</strong>
+                </td>
+            </tr>
+            <tr class="underline">
+                <td>
+                    <span style="background-color:yellow"><strong>*des faits</strong></span> s'encha&icirc;nent <img src="media/m07_arrow.jpg" width="70"/><br/><br/>
+                    *des faits = <strong>sujet</strong> de s&rsquo;encha&icirc;ner
+                </td>
+                <td>
+                    *<span style="background-color:yellow"><strong>qui</strong></span> s'encha&icirc;nent<br/><br/>
+                    *qui = <strong>sujet</strong> de s&rsquo;encha&icirc;ner
+                </td>
+            </tr>
+            <tr class="underline">
+                <td>
+                    *<strong>Le docteur Michoux</strong> s'attend lui aussi &agrave; &ecirc;tre assassin&eacute;<br/><br/>
+                    *Le docteur Michoux = sujet de s&rsquo;attendre
+                </td>
+                <td>
+                    *<strong>qui</strong> s'attend lui aussi &agrave; &ecirc;tre assassin&eacute;<br/><br/>
+                    *qui = a) <span class="orange">sujet de s'attendre</span> 
+                </td>
+            </tr>
+            <tr class="underline">
+                <td>
+                    *<strong>le vagabond</strong> s'y est r&eacute;fugi&eacute;<br/><br/>
+                    *le vagabond =&nbsp;&nbsp; sujet de s&rsquo;y est r&eacute;fugi&eacute;&nbsp;
+                </td>
+                <td>
+                   *<strong>qui</strong> s'y est r&eacute;fugi&eacute;<br/><br/>
+                   *qui = b) <span class="orange"> sujet de s'y est réfugié</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    *Maigret provoque <strong>une confrontation</strong> dans la cellule du docteur Michoux<br/><br/>
+                    *Une confrontation = compl&eacute;ment de provoquer
+                </td>
+                <td>
+                    *<strong>que</strong> Maigret provoque dans la cellule du docteur Michouxl<br/><br/>
+                    *que = c) <span class="orange">complément de provoquer</span>
+                </td>
+            </tr>
+		</table>
+
+	]]>
+</definition>
+	<sidebar></sidebar>
+</flashcard>
