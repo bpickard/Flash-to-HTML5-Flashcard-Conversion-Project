@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			Je trouve un exemple du texte de Giono qui illustre cette règle :
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">« Le berger qui ne fumait pas alla chercher un petit sac et déversa sur la table un tas de glands. Il se mit à les examiner l'un après l'autre avec beaucoup d'attention, séparant les bons des mauvais. »</p>
+		]]>
+	</definition>
+	
+	<sidebar><![CDATA[
+			<img src="media/m11_image2.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>

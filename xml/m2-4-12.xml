@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p><strong>Considérez les verbes as passé simple et les verbes à l'imparfait.</p>
+			<p>Au passé, quel temps choisir pour:</strong></p>
+			<p>relater un événement précis, bref ? le passé simple ou l'imparfait ?<br />
+			a)__________________</p>
+			<p>exprimer une action terminée ? le passé simple ou l'imparfait ?<br />
+			b)__________________</p>
+			<p>décrire une action de plus longue durée ? le passé simple ou l'imparfait ?<br />
+			c)__________________</p>
+			<p>souligner la soudaineté d'un événement ? le passé simple ou l'imparfait ?<br />
+			d)__________________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Le passé simple</p>
+			<p class="orange">b) Le passé simple</p>
+			<p class="orange">c) L'imparfait
+			<p class="orange">d) Le passé simple</p>
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m11_image2.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>

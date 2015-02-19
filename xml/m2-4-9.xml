@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Dans un récit au passé, on emploie</p><br />
+			<p>le passé simple pour :<br />
+			a)____________________</p>
+			<p>l'imparfait pour :<br />
+			b)____________________</p>
+			<p>le plus-que-parfait pour :<br />
+			c)____________________</p>
+			<p>le conditionnel présent pour :<br />
+			d)____________________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">
+			a) des événements ponctuels qui ont un début et une fin.<br /><br />
+			b) des événements en cours dont le début et la fin ne sont pas précisés.<br /><br />
+			c) des événements antérieurs.<br /><br />
+			d) des événements futurs.<br /><br />
+			</p>
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m11_image1.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>

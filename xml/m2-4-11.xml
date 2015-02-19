@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Relevez <strong>tous</strong> les verbes du texte et classez-les dans le tableau ci-dessous.</p>
+			<table style="font-size:16pt;">
+				<tr class="underline">
+					<td>Passé simple</td>
+					<td>Imparfait</td>
+					<td>Plus-que-parfait</td>
+				</tr>
+				<tr>
+					<td>Le berger alla</td>
+					<td>Qui ne fumait</td>
+					<td>Il avait mis</td>
+				</tr>
+				<tr>
+					<td>a)________</td>
+					<td>b)________</td>
+					<td>c)________</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<table>
+				<tr class="underline">
+					<td>Passé simple</td>
+					<td>Imparfait</td>
+					<td>Plus-que-parfait</td>
+				</tr>
+				<tr>
+					<td>Le berger alla</td>
+					<td>Qui ne fumait</td>
+					<td>Il avait mis</td>
+				</tr>
+				<tr class="orange">
+					<td>Il déversa</td>
+					<td>Il mettait</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il se mit</td>
+					<td>Je fumais ma pipe</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Je me proposai</td>
+					<td>C'était son affaire</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Je n'insistai pas</td>
+					<td>Qu'il mettait</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Quand il eut</td>
+					<td>Il éliminait</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il les compta</td>
+					<td>Ceux qui étaient fendillés</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Quand il eut</td>
+					<td>(fendillés est un adjectif ici)</td>
+				</tr>
+				<tr class="orange">
+					<td>Il s'arrêta</td>
+					<td>Il les examinait</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Nous allâmes</td>
+					<td>La société donnait</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Je lui demandai</td>
+					<td>Rien ne pouvait le</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il le trouva</td>
+					<td>déranger</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il me donna l'impression</td>
+					<td>Ce repos ne m'était</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il fit sortir</td>
+					<td>pas obligatoire</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il le mena</td>
+					<td>J'étais intrigué (intrigué</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il trempa</td>
+					<td>est un adjectif ici)</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>J'eus peur</td>
+					<td>Je voulais en savoir plus</td>
+					<td> </td>
+				</tr>
+				<tr class="orange">
+					<td>Il vint</td>
+					<td> </td>
+					<td> </td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+
+	<sidebar><![CDATA[
+			<img src="media/m11_image2.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>

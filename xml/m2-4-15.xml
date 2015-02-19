@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			J'explique le fonctionnement du passé simple et de l'imparfait dans l'exemple que j'ai choisi : 
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">Le passé simple dans cet exemple décrit précisément ce que fait le berger mais il n'a pas l'habitude de fumer et cette action est précisée par un imparfait.</p>
+		]]>
+	</definition>
+	
+	<sidebar><![CDATA[
+			<img src="media/m11_image2.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>
