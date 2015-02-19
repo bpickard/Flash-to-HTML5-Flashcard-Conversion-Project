@@ -2,37 +2,57 @@
 <flashcard>
 	<term>
 		<![CDATA[
-<table>
-<tbody>
-<tr>
-<td>
-<p>* responsable</p>
-<p>* passible</p>
-<p>* prisonnier</p>
-<p>* s&ucirc;r</p>
-<p>* originaire</p>
-</td>
-<td>
-<p>Quelle pr&eacute;position ont-ils en commun&nbsp;?</p>
-<p>a)________&nbsp;</p>
-<p>Je connais d&rsquo;autres adjectifs construits de la m&ecirc;me mani&egrave;re (donnez des exemples personnels)&nbsp;:&nbsp;</p>
-<p>b)_________</p>
-<p>c)_________</p>
-<p>d)_________</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+		<br/>
+		<table>
+			<tbody>
+				<tr>
+					<td width="40%">
+						<p>* responsable</p>
+						<p>* passible</p>
+						<p>* prisonnier</p>
+						<p>* s&ucirc;r</p>
+						<p>* originaire</p>
+					</td>
+					<td width="60%">
+						<p>Quelle pr&eacute;position ont-ils en commun&nbsp;?</p>
+						<p>a)________&nbsp;</p>
+						<p>Je connais d&rsquo;autres adjectifs construits de la m&ecirc;me mani&egrave;re (donnez des exemples personnels)&nbsp;:&nbsp;</p>
+						<p>b)_________</p>
+						<p>c)_________</p>
+						<p>d)_________</p>
+						<p>&nbsp;</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-<p class="orange">a) La pr&eacute;position de</p>
-<p class="orange">b) fier de son p&egrave;re</p>
-<p class="orange">c) content de l'ordinateur</p>
-<p class="orange">d) fatigu&eacute; de travail</p>
+		<br/>
+		<table>
+			<tbody>
+				<tr>
+					<td width="40%">
+						<p>* responsable</p>
+						<p>* passible</p>
+						<p>* prisonnier</p>
+						<p>* s&ucirc;r</p>
+						<p>* originaire</p>
+					</td>
+					<td width="60%">
+						<p>Quelle pr&eacute;position ont-ils en commun&nbsp;?</p>
+						<p class="orange">La préposition de</p>
+						<p>Je connais d&rsquo;autres adjectifs construits de la m&ecirc;me mani&egrave;re (donnez des exemples personnels)&nbsp;:&nbsp;</p>
+						<p class="orange">fier de son père</p>
+						<p class="orange">content de l'ordinatuer</p>
+						<p class="orange">fatigué de travail</p>
+						<p>&nbsp;</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
 		]]>	
 	</definition>
 

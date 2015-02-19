@@ -2,21 +2,35 @@
 <flashcard>
 	<term>
 		<![CDATA[
-<p><strong>J&rsquo;observe l&rsquo;emploi de &laquo; dont &raquo;, compl&eacute;ment d&rsquo;un adjectif dans la relative.</strong></p>
-<p>Maigret rentre &agrave; Paris apr&egrave;s l&rsquo;enqu&ecirc;te&nbsp;<strong>dont</strong>&nbsp;il est satisfait.</p>
-<p>*Quel est l&rsquo;ant&eacute;c&eacute;dent de &laquo; dont &raquo; ?&nbsp;a)________<br />*Je transforme la phrase complexe en 2 phrases simples :</p>
-<p>a. Maigret rentre &agrave; Paris apr&egrave;s l&rsquo;enqu&ecirc;te.<br />b. Il est satisfait de l&rsquo;enqu&ecirc;te.</p>
-<p>Dans la phrase b, l&rsquo;adjectif est suivi de la pr&eacute;position b)________.&nbsp;</p>
+		<p><strong>J'observe l'emploi de « dont », complément d'un adjectif dans la relative</strong></p>
+		<p>Maigret rentre à Paris après l'enquête <strong>dont</strong> il est satisfait.</p>
+			<ul>
+				<li>Quel est l'antécédent de « dont » ? a)_____</li>
+				<li>Je transforme la phrase complexe en 2 phrases simples:
+					<ul class="lower-alpha">
+						<li>Maigret rentre à Paris après l'enquête.</li>
+						<li>Il est satisfait de l'enquête.</li>
+					</ul>
+				</li>
+			</ul>
+		<p>Dans la phrase b, l'adjectif est suivi de la préposition b)_____</p>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-<p><strong>J&rsquo;observe l&rsquo;emploi de &laquo; dont &raquo;, compl&eacute;ment d&rsquo;un adjectif dans la relative.</strong></p>
-<p>Maigret rentre &agrave; Paris apr&egrave;s l&rsquo;enqu&ecirc;te <strong>dont</strong> il est satisfait.</p>
-<p>*Quel est l&rsquo;ant&eacute;c&eacute;dent de &laquo; dont &raquo; ? Enqu&ecirc;te <br />*Je transforme la phrase complexe en 2 phrases simples :</p>
-<p>a. Maigret rentre &agrave; Paris apr&egrave;s l&rsquo;enqu&ecirc;te.<br />b. Il est satisfait de l&rsquo;enqu&ecirc;te.</p>
-<p>Dans la phrase b, l&rsquo;adjectif est suivi de la pr&eacute;position de.&nbsp;</p>
+		<p><strong>J'observe l'emploi de « dont », complément d'un adjectif dans la relative</strong></p>
+		<p>Maigret rentre à Paris après l'enquête <strong>dont</strong> il est satisfait.</p>
+			<ul>
+				<li>Quel est l'antécédent de « dont » ? <span class="orange">Enquête</span></li>
+				<li>Je transforme la phrase complexe en 2 phrases simples:
+					<ul class="lower-alpha">
+						<li>Maigret rentre à Paris après l'enquête.</li>
+						<li>Il est satisfait de l'enquête.</li>
+					</ul>
+				</li>
+			</ul>
+		<p>Dans la phrase b, l'adjectif est suivi de la préposition <span class="orange">de</span></p>
 		]]>	
 	</definition>
 
