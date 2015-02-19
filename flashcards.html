@@ -36,7 +36,7 @@
 		var curName = String(frames[i].id);
 		var hashName = String(this.location.hash)
 		curName = "#"+curName;
-
+		//check to see if hash name and current name are equal, if so load the card
 		if(hashName===curName){
 			loadFlashCard(frames[i].attributes.data.value,hashName);
 		}	
