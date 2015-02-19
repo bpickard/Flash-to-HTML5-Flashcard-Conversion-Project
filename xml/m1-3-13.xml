@@ -8,17 +8,15 @@
 
 	<definition>
 		<![CDATA[
-<p class="orange">Ma pharmacienne est africaine</p>
-<p class="orange">Ma dentiste est bouddhiste</p>
-<p class="orange">Mon voisin est malien</p>
-<p class="orange">Mon chien est chilien</p>
-<p class="orange">Th&eacute;r&egrave;se est congolaise</p>
-<p class="orange">Dans une classe, les &eacute;l&egrave;ves partageraient leurs linges avec le reste de la classe.</p>
+			<p class="orange">Ma pharmacienne est africaine</p>
+			<p class="orange">Ma dentiste est bouddhiste</p>
+			<p class="orange">Mon voisin est malien</p>
+			<p class="orange">Mon chien est chilien</p>
+			<p class="orange">Th&eacute;r&egrave;se est congolaise</p>
+			<p class="orange">Dans une classe, les &eacute;l&egrave;ves partageraient leurs linges avec le reste de la classe.</p>
 		]]>
 		
 	</definition>
 
-	<sidebar>
-	
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>

@@ -3,36 +3,33 @@
 	<term>
 		<![CDATA[
 			<p>Trouves 2 propositions relatives. (Si cette partie vous a posé des problèmes, allez faire l'exercice dans la partie Observation Réfléchie de la Langue de ce module, intitulée, pronoms relatifs complexes).</p>
-<table>
-<tbody>
-<tr class="underline">
-<td width='50%'>Les propositions relatives</td>
-<td width='50%'>Les ant&eacute;c&eacute;dents</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+		<table>
+			<tr class="underline" style="font-size:18pt">
+				<td width='60%'>Les propositions relatives</td>
+				<td width='40%'>Les ant&eacute;c&eacute;dents</td>
+			</tr>
+		</table>
+		<p>&nbsp;</p>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-			<p><table></p>
-			<tr class="underline">
-			    <td width="50%">Les propositions relatives</td>
-			    <td width="50%">Les ant&eacute;c&eacute;dents</td>
-		    </tr>
-<tbody>
-<tr>
-<td class='orange'>Au dessus duquel &eacute;taient accroch&eacute;s des outils...</td>
-<td class='orange'>Un grand &eacute;tabli</td>
-</tr>
-<tr>
-<td class='orange'>Dans lesquels il fouillait souvent...</td>
-<td class='orange'>Paniers en bois</td>
-</tr>
-</tbody>
-</table>
+			<br/>
+			<table >
+			<tr class="underline" style="font-size:18pt" cellpadding="6">
+				<td width="60%">Les propositions relatives</td>
+				<td width="40%">Les ant&eacute;c&eacute;dents</td>
+			</tr>
+			<tr style="font-size:18pt">
+				<td class='orange'><p>Au dessus duquel &eacute;taient accroch&eacute;s des outils...</p></td>
+				<td class='orange'><p>Un grand &eacute;tabli</p></td>
+			</tr>
+			<tr style="font-size:18pt">
+				<td class='orange'><p>Dans lesquels il fouillait souvent...</p></td>
+				<td class='orange'><p>Paniers en bois</p></td>
+			</tr>
+			</table>
 ]]>
 	</definition>
 		

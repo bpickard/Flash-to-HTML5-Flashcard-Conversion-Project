@@ -10,16 +10,16 @@
 			  <td width='33%'>para&icirc;tre</td>
 		  	</tr>
 			<tr>
-			<td>Le policier &eacute;tait tout jeune, imberbe</td>
-			<td>&nbsp;</td>
+			<td><p>Le policier &eacute;tait tout jeune, imberbe</p></td>
+			<td><p>&nbsp;</p></td>
 			</tr>
 			<tr>
-			<td>Son visage &eacute;tait p&eacute;tri de na&iuml;vet&eacute;</td>
-			<td>&nbsp;</td>
+			<td><p>Son visage &eacute;tait p&eacute;tri de na&iuml;vet&eacute;</p></td>
+			<td><p>&nbsp;</p></td>
 			</tr>
 			<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><p>&nbsp;</p></td>
+			<td><p>&nbsp;</p></td>
 			</tr>
 			</table>
 		  ]]>
@@ -35,14 +35,14 @@
 			  <td width='33%'>para&icirc;tre</td>
 		    </tr>
 		  <tr>
-		  <td>Le policier &eacute;tait tout jeune, imberbe</td>
-		  <td class="orange">Le policier semblait tout jeune, imberbe</td>
-		  <td class="orange">Le policier paraissait tout jeune, imberbe</td>
+		  <td><p>Le policier &eacute;tait tout jeune, imberbe</p></td>
+		  <td class="orange"><p>Le policier semblait tout jeune, imberbe</p></td>
+		  <td class="orange"><p>Le policier paraissait tout jeune, imberbe</p></td>
 		  </tr>
 		  <tr>
-		  <td>Son visage &eacute;tait p&eacute;tri de na&iuml;vet&eacute;</td>
-		  <td class="orange">Son visage semblait p&eacute;tri de na&iuml;vet&eacute;</td>
-		  <td class="orange">Son visage paraissait p&eacute;tri de na&iuml;vet&eacute;</td>
+		  <td><p>Son visage &eacute;tait p&eacute;tri de na&iuml;vet&eacute;</p></td>
+		  <td class="orange"><p>Son visage semblait p&eacute;tri de na&iuml;vet&eacute;</p></td>
+		  <td class="orange"><p>Son visage paraissait p&eacute;tri de na&iuml;vet&eacute;</p></td>
 		  </tr>
 		  </table>
 		  <p>&nbsp;</p>

@@ -3,54 +3,50 @@
 	<term>
 		<![CDATA[
 			<p>Faites une liste de tous les verbes &agrave; l'imparfait.</p>
-<table>
-<tbody>
-<tr class="underline">
-<td width='50%'>Les verbes qui d&eacute;crivent une action</td>
-<td width='50%'>Les verbes qui expriment une habitude</td>
-</tr>
-</tbody>
-</table>
+			<table>
+				<tr class="underline">
+					<td width='50%'>Les verbes qui d&eacute;crivent une action</td>
+					<td width='50%'>Les verbes qui expriment une habitude</td>
+				</tr>
+			</table>
 		]]>
 		
 	</term>
 
 	<definition>
-			<![CDATA[
+		<![CDATA[
+			<br/>
 			<table>
-			<tr class="underline">
-			  <td width="50%">Les verbes qui d&eacute;crivent une action</td>
-			  <td width="50%">Les verbes qui expriment une habitude</td>
-		  </tr>
-<table>
-<tbody>
-<tr>
-<td class="orange">se reposaient</td>
-<td class="orange">il tirait</td>
-</tr>
-<tr>
-<td class="orange">voyait</td>
-<td class="orange">parlait</td>
-</tr>
-<tr>
-<td class="orange">frappait</td>
-<td class="orange">sentait</td>
-</tr>
-<tr>
-<td class="orange">bouillait</td>
-<td class="orange">n'habitait</td>
-</tr>
-<tr>
-<td class="orange">offrais</td>
-<td class="orange">frappait</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td class="orange">ne fumait pas</td>
-</tr>
-</tbody>
-</table>
-]]>
+				<tr class="underline">
+					<td width="50%">Les verbes qui d&eacute;crivent une action</td>
+					<td width="50%">Les verbes qui expriment une habitude</td>
+				</tr>
+				<tr>
+					<td class="orange">se reposaient</td>
+					<td class="orange">il tirait</td>
+				</tr>
+				<tr>
+					<td class="orange">voyait</td>
+					<td class="orange">parlait</td>
+				</tr>
+				<tr>
+					<td class="orange">frappait</td>
+					<td class="orange">sentait</td>
+				</tr>
+				<tr>
+					<td class="orange">bouillait</td>
+					<td class="orange">n'habitait</td>
+				</tr>
+				<tr>
+					<td class="orange">offrais</td>
+					<td class="orange">frappait</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td class="orange">ne fumait pas</td>
+				</tr>
+			</table>
+		]]>
 </definition>
 
 	<sidebar>

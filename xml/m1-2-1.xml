@@ -2,20 +2,18 @@
 <flashcard>
 	<term>
 		<![CDATA[
-			<p>Trouvez dans le texte les expressions et les mots qui d&eacute;crivent le berger et sa maison : Un portrait du berger</p>
-<p>a) Le portrait physique du berger</p>
-<p>Citez les expressions du texte qui d&eacute;crivent l'aspect physique du berger</p>
-<hr>
+		<p>Trouvez dans le texte les expressions et les mots qui d&eacute;crivent le berger et sa maison : Un portrait du berger</p>
+		<p>a) Le portrait physique du berger</p>
+		<p class="underline">Citez les expressions du texte qui d&eacute;crivent l'aspect physique du berger</p>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-<p>Citez les expressions du texte qui d&eacute;crivent l'aspect physique du berger</p>
-<hr>
-<p class='orange'>- Il &eacute;tait aussi ras&eacute; de frais</p>
-<p class='orange'>- Tous ses boutons &eacute;taient solidement cousus</p>
-<p class='orange'>- Ses v&ecirc;tements &eacute;taient repris&eacute;s avec le soin...</p>
+	<p class="underline">Citez les expressions du texte qui d&eacute;crivent l'aspect physique du berger</p>
+	<p class='orange'>- Il &eacute;tait aussi ras&eacute; de frais</p>
+	<p class='orange'>- Tous ses boutons &eacute;taient solidement cousus</p>
+	<p class='orange'>- Ses v&ecirc;tements &eacute;taient repris&eacute;s avec le soin...</p>
 ]]>
 	</definition>
 		

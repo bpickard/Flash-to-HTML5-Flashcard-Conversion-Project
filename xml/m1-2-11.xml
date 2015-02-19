@@ -2,76 +2,68 @@
 <flashcard>
 	<term>
 		<![CDATA[
-			<p>Relevez toutes les proposition relatives du texte et indiquez l'ant&eacute;c&eacute;dent.</p>
-			<p><table></p>
-			<tr class="underline">
-			    <td width="50%">L'ant&eacute;c&eacute;dent</td>
-			    <td width="50%">La proposition relative</td>
-		    </tr>
-<table>
-<tbody>
-<tr>
-<td>Un trou</td>
-<td></td>
-</tr>
-<tr>
-<td>La ruine</td>
-<td></td>
-</tr>
-<tr>
-<td>Le vent</td>
-<td></td>
-</tr>
-<tr>
-<td>Maison</td>
-<td></td>
-</tr>
-<tr>
-<td>Le soin minutieux</td>
-<td></td>
-</tr>
-<tr>
-</tbody>
-</table>
-]]>
-		
+		<p>Relevez toutes les propositions relatives du texte et infiquez l'antécédent.</p>
+		<br/>
+		<table>
+				<tr class="underline" style="font-size:20pt">
+					<td width="40%">L'ant&eacute;c&eacute;dent</td>
+					<td width="60%">La proposition relative</td>
+				</tr>
+				<tr>
+					<td>Un trou</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>La ruine</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>Le vent</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>Maison</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>Le soin minutieux</td>
+					<td>&nbsp;</td>
+				</tr>
+		</table>
+		]]>
+				
 	</term>
-
 	<definition>
 			<![CDATA[
-			<p><table></p>
+			<br/>
+			<table>
 			<tr class="underline">
 			    <td width="50%">L'ant&eacute;c&eacute;dent</td>
 			    <td width="50%">La proposition relative</td>
 		    </tr>
-<table>
-<tbody>
-<tr>
-<td>Un trou</td>
-<td  class="orange">au-dessus duquel il avait install&eacute;...</td>
-</tr>
-<tr>
-<td>La ruine</td>
-<td  class="orange">qu'il avait trouv&eacute;e l&agrave;</td>
-</tr>
-<tr>
-<td>Le vent</td>
-<td  class="orange">qui le frappait</td>
-</tr>
-<tr>
-<td>Maison</td>
-<td  class="orange">o&ugrave; l'on voyait tr&egrave;s bien comment...</td>
-</tr>
-<tr>
-<td>Le soin minutieux</td>
-<td  class="orange">qui rend les reprises invisibles</td>
-</tr>
-<tr>
-</tbody>
-</table>
-]]>
-</definition>
-
+			<tr>
+				<td>Un trou</td>
+				<td  class="orange">au-dessus duquel il avait install&eacute;...</td>
+			</tr>
+			<tr>
+				<td>La ruine</td>
+				<td  class="orange">qu'il avait trouv&eacute;e l&agrave;</td>
+			</tr>
+			<tr>
+				<td>Le vent</td>
+				<td  class="orange">qui le frappait</td>
+			</tr>
+			<tr>
+				<td>Maison</td>
+				<td  class="orange">o&ugrave; l'on voyait tr&egrave;s bien comment...</td>
+			</tr>
+			<tr>
+				<td>Le soin minutieux</td>
+				<td  class="orange">qui rend les reprises invisibles</td>
+			</tr>
+			</table>
+		]]>
+		</definition>
 	<sidebar>
 		<![CDATA[
 		<p>Il tirait son eau - excellente - d'un trou naturel, très profond, au-dessus duquel il avait installé un treuil rudimentaire.</p>

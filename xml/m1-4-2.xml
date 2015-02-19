@@ -16,52 +16,49 @@
 
 	<definition>
 			<![CDATA[
-			<p><table></p>
+			<br/>
+			<table>
 			<tr class="underline">
-			  <td width="50%">Adjectif avant ou apr&egrave;s le nom (inscrivez l'adjectif et le nom)</td>
-			  <td width="50%">Adjectif ou (participe pass&eacute;) s&eacute;par&eacute; du nom par un verbe (inscrivez l'adjectif ou le participe pass&eacute; et le nom)</td>
-		  </tr>
-<table>
-<tbody>
-<tr>
-<td class="orange">Fortes - moustaches</td>
-<td class="orange">Un des policiers - jeune</td>
-</tr>
-<tr>
-<td class="orange">Moustaches - acajou</td>
-<td class="orange">Un des policiers - imberbe</td>
-</tr>
-<tr>
-<td class="orange">&Eacute;paules - larges</td>
-<td class="orange">Visage - p&eacute;tri</td>
-</tr>
-<tr>
-<td class="orange">Vieux - veston</td>
-<td class="orange">Il - pench&eacute;</td>
-</tr>
-<tr>
-<td class="orange">Veston - quelconque</td>
-<td class="orange">T&ecirc;te - plant&eacute;e&nbsp;</td>
-</tr>
-<tr>
-<tr>
-<td class="orange">T&ecirc;te - nue</td>
-<td class="orange">&nbsp;</td>
-</tr>
-<tr>
-<td class="orange">Cheveux - drus</td>
-<td class="orange">&nbsp;</td>
-</tr>
-<tr>
-<td class="orange">Cheveux - courts</td>
-<td class="orange">&nbsp;</td>
-</tr>
-<tr>
-<td class="orange">Cheveux - bruns</td>
-<td class="orange">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+				<td width="45%">Adjectif avant ou apr&egrave;s le nom (inscrivez l'adjectif et le nom)</td>
+				<td width="55%">Adjectif ou (participe pass&eacute;) s&eacute;par&eacute; du nom par un verbe (inscrivez l'adjectif ou le participe pass&eacute; et le nom)</td>
+			</tr>
+			<tr>
+				<td class="orange">Fortes - moustaches</td>
+				<td class="orange">Un des policiers - jeune</td>
+			</tr>
+			<tr>
+				<td class="orange">Moustaches - acajou</td>
+				<td class="orange">Un des policiers - imberbe</td>
+			</tr>
+			<tr>
+				<td class="orange">&Eacute;paules - larges</td>
+				<td class="orange">Visage - p&eacute;tri</td>
+			</tr>
+			<tr>
+				<td class="orange">Vieux - veston</td>
+				<td class="orange">Il - pench&eacute;</td>
+			</tr>
+			<tr>
+				<td class="orange">Veston - quelconque</td>
+				<td class="orange">T&ecirc;te - plant&eacute;e&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="orange">T&ecirc;te - nue</td>
+				<td class="orange">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="orange">Cheveux - drus</td>
+				<td class="orange">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="orange">Cheveux - courts</td>
+				<td class="orange">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="orange">Cheveux - bruns</td>
+				<td class="orange">&nbsp;</td>
+			</tr>
+			</table>
 ]]>
 </definition>
 
