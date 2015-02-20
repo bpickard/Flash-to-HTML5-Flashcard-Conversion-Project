@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<table>
+				<tr class="underline">
+					<td><strong>Texte</strong></td>
+					<td><strong>Résumez le texte dans vos propres mots</strong></td>
+				</tr>
+				<tr class="underline">
+					<td>1<sup>ère</sup> phrase : Beaucoup d'agriculteurs de l'Asie du Sud-est font travailler des buffles d'eau dans les rizières et au transport du bois.</td>
+					<td>a)_____________</td>
+				</tr>
+				<tr class="underline">
+					<td>2<sup>ième</sup> phrase : En effet, ces animaux peuvent supporter le climat chaud en s'immergeant souvent dans l'eau ou bien dans la boue dont ils se recouvrent pour se protéger des piqûres d'insectes et des brûlures du soleil.</td>
+					<td>b)____________</td>
+				</tr>
+				<tr class="underline">
+					<td>3<sup>ième</sup> phrase : Toutefois, l'utilisation des buffles est menacée par l'utilisation des machines agricoles modernes, qui, elles, n'ont pas besoin de se reposer durant les heures torrides du jour.</td>
+					<td>c)____________</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Les buffles sont des animaux de trait utilisés depuis toujours par les agriculteurs dans certains pays asiatiques.</p>
+			<p class="orange">b) Ces animaux sont très bien adaptés au climat chaud de ces pays grâce à une boue protectrice dont ils recouvrent leurs corps.</p>
+			<p class="orange">c) Cependant, l'utilisation de ces animaux pourrait disparaître à cause de l'emploi de plus en plus fréquent de machines agricoles.</p>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>
