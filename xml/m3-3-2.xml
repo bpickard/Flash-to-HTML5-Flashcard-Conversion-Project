@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<table>
+				<tr>
+					<td width="37%">Le titre</td>
+					<td width="63%">Quelle est la question (non formulée) posée par le titre?
+					a)_______________</td>
+				</tr>
+				<tr>
+					<td><p>Les paragraphes</p></td>
+					<td><p>Trouvez un sous-titre pour chaque paragraphe.
+					b)__________________</p></td>
+				</tr>
+				<tr>
+					<td><p>Le champ lexical</p></td>
+					<td><p>Trouvez les mots qui appartiennent au
+					c)______________</p></td>
+				</tr>
+				<tr>
+					<td><p>Les thèmes</p></td>
+					<td><p>Trouvez deux thèmes abordés dans le texte.
+					d)_________________</p></td>
+				</tr>
+				<tr>
+					<td><p>Les exemples</p></td>
+					<td><p>Trouvez un exemple utilisé pour étayer une explication.
+					e)________</p></td>
+				</tr>
+			</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Dans les années à venir, y aura-t-il de l'eau pour tous les pays?</p>
+			<p class="orange">b) * On prévoit une raréfaction inéluctable de l'eau douce<br />
+			* L'accès à l'eau va devenir une cause de conflits entre pays<br />
+			* Il va falloir apprendre à partager<br />
+			* Qui a la maîtrise de l'eau ?
+			* En fait, l'eau a toujours été un enjeu économique et politique
+			<p class="orange">c) manque d'eau, consommation, ressource, or bleu, bassins fluviaux, cours d'eau, débit de l'eau, sécheresse, pluies</p>
+			<p class="orange">d) Le thème des conflits ou de la guerre et le thème de l'économie mondiale.</p>
+			<p class="orange">e) Il est vrai que plus de 40% de la population mondiale est établie dans les 250 bassins fluviaux transfrontaliers du globe.</p>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p style="text-align:center;" class="underline">L'organisation du texte</p>
+			<p>Relevez les quinze connecteurs dans le texte et précisez le rapport qu'ils établissent entre les idées (référez-vous à la fiche 'outils' de ce module).</p>
+			<table>
+				<tr>
+					<th>Connecteurs</th>
+					<th>Rapport</th>
+				</tr>
+				<tr>
+					<td>a)______</td>
+					<td>i)______</td>
+				</tr>
+				<tr>
+					<td>b)______</td>
+					<td>ii)______</td>
+				</tr>
+				<tr>
+					<td>c)______</td>
+					<td>iii)______</td>
+				</tr>
+				<tr>
+					<td>d)______</td>
+					<td>iv)______</td>
+				</tr>
+				<tr>
+					<td>e)______</td>
+					<td>v)______</td>
+				</tr>
+				<tr>
+					<td>+....</td>
+					<td>+....</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<table class="orange" style="align-text:center;">
+				<tr>
+					<th>Connecteurs</th>
+					<th>Rapport</th>
+				</tr>
+				<tr>
+					<td>Puisque</td>
+					<td>Exprime la cause</td>
+				</tr>
+				<tr>
+					<td>Or</td>
+					<td>Exprime l'opposition</td>
+				</tr>
+				<tr>
+					<td>D'ailleurs</td>
+					<td>Exprime l'addition</td>
+				</tr>
+				<tr>
+					<td>Comme</td>
+					<td>Exprime l'illustration</td>
+				</tr>
+				<tr>
+					<td>Selon</td>
+					<td>Exprime la reformulation</td>
+				</tr>
+				<tr>
+					<td>Donc</td>
+					<td>Exprime la conséquence</td>
+				</tr>
+				<tr>
+					<td>Il est vrai que</td>
+					<td>Exprime l'illustration</td>
+				</tr>
+				<tr>
+					<td>Autrement dit</td>
+					<td>Exprime la reformulation</td>
+				</tr>
+				<tr>
+					<td>Or</td>
+					<td>Exprime l'opposition</td>
+				</tr>
+				<tr>
+					<td>Notamment</td>
+					<td>Exprime l'illustration</td>
+				</tr>
+				
+				<tr>
+					<td>Car</td>
+					<td>Exprime la cause</td>
+				</tr>
+				<tr>
+					<td>Puisque</td>
+					<td>Exprime la cause</td>
+				</tr>
+				<tr>
+					<td>Alors</td>
+					<td>Exprime la conséquence</td>
+				</tr>
+				<tr>
+					<td>Déjà</td>
+					<td>Exprime la classification</td>
+				</tr>
+				<tr>
+					<td>Également</td>
+					<td>Exprime l'addition</td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>

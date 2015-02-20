@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<table>
+				<tr>
+					<td width="40%">Qui parle?<br />L'énonciateur</td>
+					<td width="60%">D'après vous, d'où provient le document?<br />
+					a)__________________</td>
+				</tr>
+				<tr>
+					<td><p>À qui?<br />Le destinataire</p></td>
+					<td><p>b)________________</p></td>
+				</tr>
+				<tr>
+					<td>Le message = la transmission d'un savoir</td>
+					<td>De quoi parle le texte?<br />
+					c)_________________</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<table cellpadding="6" border="1">
+				<tr>
+					<td width="40%">Qui parle?<br />L'énonciateur</td>
+					<td width="60%">D'après vous, d'où provient le document?<br />
+					<span class="orange">C'est un article sur Internet écrit par un journaliste.</span></td>
+				</tr>
+				<tr>
+					<td>À qui?<br />Le destinataire</td>
+					<td class="orange">Au public d'Internet qui veut en savoir plus sur l'eau douce de notre planète.</td>
+				</tr>
+				<tr>
+					<td>Le message = la transmission d'un savoir</td>
+					<td>De quoi parle le texte?<br />
+					<span class="orange">De la raréfaction de l'eau douce dans les 50 ans à venir et do fait que l'eau douce va devenir le bien le plus précieux de notre planète.</td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>

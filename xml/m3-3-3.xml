@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p style="text-align:center;" class="underline">Le temps</p>
+			<p>a) Quel est le temps dominant dans les 4 premiers paragraphes?</p>
+			<p>b) Quel est le temps dominant dans le 5<sup>e</sup> paragraphe?</p>
+			<p>c) Pouvez-vous justifier l'emploi de ces temps?</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Le présent</p>
+			<p class="orange">b) L'imparfait</p>
+			<p class="orange">c) * Le présent appelé présent de narration est utilisé pour exprimer des événements actuels et renforcer le fait qu'il s'agit d'un sujet préoccupant.<br />
+			* L'imparfait sert à rappeler des événements anciens qui sont proposés comme exemple pour expliquer que le fait n'est pas nouveau.
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>
