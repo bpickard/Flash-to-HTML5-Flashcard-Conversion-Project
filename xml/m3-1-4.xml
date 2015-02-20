@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Vous allez faire le plan de l'explication pour accompagner le graphique, comme si vous le présenteriez à une classe.</p>
+			<p style="margin-left:75px;">Présentez le titre, sous forme de question.<br />
+			a)________________________________</p>
+			<p style="margin-left:130px;">Présentez l'introduction.<br />
+			b)__________________</p>
+			<p style="margin-left:125px;">Présentez les paragraphes.</p>
+			<table>
+				<tr>
+					<td>1<sup>er</sup> point - explication + exemple</td>
+					<td>2<sup>e</sup> point - explication + exemple</td>
+				</tr>
+				<tr>
+					<td>Explication : c)_________</td>
+					<td>Explication : e)_________</td>
+				</tr>
+				<tr>
+					<td>Exemples : d)__________</td>
+					<td>Exemples : f)__________</td>
+				</tr>
+			</table>
+			<p style="margin-left:125px;">Présentez la conclusion.<br />
+			g)_________________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Combien de temps nos déchets mettent-ils pour se dégrader?<br />
+			b) Tout ce que notre société d consommation rejette est un déchet que va metter peut-être des millénairees avant de disparaître.<br />
+			c) Il existe des déchets qui se défradent en quelques mois ou quelques années.<br />
+			d) Ce qui est périssable comme :<br />
+			   - le papier<br />
+			   - les restes de cigarettes<br />
+			   - les fruits ou les légumes<br />
+			e) Il existe des déchets qui ne se dégradent pas facilement même après des millénaires et qui demandent des processus comme l'oxydation ou des déchets qui ne se dégradent quasiment pas.<br />
+			f) - les canettes en acier<br />
+			   - le verre<br />
+			g) En attendant que tous ces déchets disparaissent, ils polluent notre planète.
+			</p>	
+		]]>
+	</definition>
+	<sidebar>
+	</sidebar>
+</flashcard>

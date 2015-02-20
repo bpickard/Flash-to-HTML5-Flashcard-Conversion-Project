@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p class="underline">La mise en page</p>
+			<p>(S'il y a des mots que vous ne connaissez pas dans les questions, cherchez-les dans le dictionnaire.)</p>
+			<ol>
+				<li>Combien de différentes polices de caractères y a-t-il dans l'encadré ? a)______________</li>
+				<li>Comment s'appelle le petit texte sous l'image? b)_____________</li>
+				<li>Décrivez ce que vous voyez dans cette image: c)______________</li>
+			</ol>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Trois</p>
+			<p class="orange">b) La légende</p>
+			<p class="orange">c) Je vois un attelage de deux buffles d'eau reconnaissables par leurs grandes cornes et menés par une jeune fille au turban.</p>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>

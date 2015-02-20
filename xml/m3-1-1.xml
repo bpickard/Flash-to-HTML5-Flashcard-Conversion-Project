@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Quel est le problème soulevé?</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">La façon dont nos déchets se recyclent.</p>
+		]]>
+	</definition>
+	
+	<sidebar><![CDATA[
+			<img src="media/m12_image1.jpg" width="440" />
+		 ]]>
+	</sidebar>
+</flashcard>
