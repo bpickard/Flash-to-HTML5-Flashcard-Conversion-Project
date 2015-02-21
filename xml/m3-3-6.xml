@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Retrouvez le plan de ce texte.</p>
+			<p>L'introduction</p>
+			<p>Les paragraphes</p>
+			<p>Ce texte n'a pas de conclusion, car il s'agit d'un extrait. Pouvez-vous rédiger une conclusion ?</p>
+			<p>Conclusion : a)_________________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">En conclusion, dans les années à venir, les pays du monde entier vont être confrontés à un phénomène qui n'est pas nouveau mais qui risque sérieusement de s'accentuer : le manque d'eau douce. Il ne reste plus qu'à espérer que les humains seront suffisamment solidaires et qu'ils sauront gérer intelligemment le partage de cette ressource rare.</p>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>
