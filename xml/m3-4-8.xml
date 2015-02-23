@@ -2,21 +2,26 @@
 <flashcard>
 	<term>
 		<![CDATA[
-			<br />
-			<p>a) Que remarquez-vous?</p>
-			<p>b) Pouvez-vous formuler une règle pour la construction du verbe dans la phrase passive?</p>
+		<br />
+			<p>Phrase au passif : a)___________________</p>
+			<p>Sujet grammatical : <br />b)_______________</p>
+			<p>Complément d'agent : c)_______________</p>
+			<p>Temps du verbe au passif : d)_______________</p>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
 			<br />
-			<p class="orange">a) Il faut rajouter l'auxiliaire être dans les phrases au passif.</p>
-			<p class="orange">b) Le passif se forme avec l'auxiliaire être et le participe passé du verbe de la phrase.</p>
+			<p>Phrase au passif : a) <span class="orange">En Allemagne, quatre hommes et une femme sont morts dans des accidents de la route qui ont été provoqués par les rafales violentes et les chutes d'arbres.</span></p>
+			<hr />
+			<p>Sujet grammatical : <br />b) <span class="orange">Des accidents de la route</span></p>
+			<p>Complément d'agent : <br />c) <span class="orange">Par les rafales violentes et les chutes d'arbres</p>
+			<p>Temps du verbe au passif : d) <span class="orange">Passé composé</span></p>
 		]]>
 	</definition>
 	
-	<sidebar>
+<sidebar>
 		<![CDATA[
 		<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
 			<p><strong>Observation réfléchie de la langue - le passif, niveau intermédiaire et avancé</strong></p>

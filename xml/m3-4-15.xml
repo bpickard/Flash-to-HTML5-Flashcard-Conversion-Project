@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br />
+			<p>Notre équipe de journalistes <strong>est passée</strong> par Amsterdam.</p>
+			<p>a) (Oui/Non)</p>
+			<p>b) (Explication)________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p>Notre équipe de journalistes <strong>est passée</strong> par Amsterdam.</p>
+			<p class="orange">a) Non</p>
+			<p class="orange">b) Le sujet « notre équipe » fait l'action, le verbe « passer » est conjugué avec l'auxiliaire « être » au passé composé ». « par Amsterdam » n'est pas un complément d'agent mais un complément de lieu.
+			</p>
+		]]>
+	</definition>
+	
+	<sidebar>
+	</sidebar>
+</flashcard>

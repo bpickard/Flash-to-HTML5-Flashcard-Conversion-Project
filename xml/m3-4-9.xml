@@ -2,17 +2,22 @@
 <flashcard>
 	<term>
 		<![CDATA[
-			<br />
-			<p>a) Que remarquez-vous?</p>
-			<p>b) Pouvez-vous formuler une règle pour la construction du verbe dans la phrase passive?</p>
+		<br />
+			<p>Phrase au passif : <br />a)_______________</p>
+			<p>Sujet grammatical : <br />b)_______________<br />e)_______________</p>
+			<p>Complément d'agent : <br />c)_______________<br />f)_______________</p>
+			<p>Temps du verbe au passif : <br />d)_______________<br />g)_______________</p>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
 			<br />
-			<p class="orange">a) Il faut rajouter l'auxiliaire être dans les phrases au passif.</p>
-			<p class="orange">b) Le passif se forme avec l'auxiliaire être et le participe passé du verbe de la phrase.</p>
+			<p>Phrase au passif : a) <span class="orange">En République tchèque, une fillette de 11 ans a été écrasée par la chute d'un arbre et un homme de 80 ans a été tué par la chute d'un morceau de métal.</span></p>
+			<hr />
+			<p>Sujet grammatical : <br />b) <span class="orange">Une fillette</span><br />e) <span class="orange">Un homme</span></p>
+			<p>Complément d'agent : <br />c) <span class="orange">Par la chute d'un arbre</span><br />f) <span class="orange">Par la chute d'un morceau</span></p>
+			<p>Temps du verbe au passif : <br />d) <span class="orange">Passé composé</span><br />g) <span class="orange">Passé composé</span></p>
 		]]>
 	</definition>
 	
