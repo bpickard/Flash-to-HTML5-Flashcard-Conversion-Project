@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p><strong>La conjugaison</strong> - Comparez le groupe verbal. Écrivez le groupe verbal, puis le temps de ce groupe verbal dans les phrases suivantes.</p>
+			<table>
+				<tr>
+					<th width="50%">Phrases actives</th>
+					<th width="50%">Phrases passives</th>
+				</tr>
+				<tr>
+					<td>La tempête <strong>cause</strong> des dommages.<br />groupe verbal : _____<br />temps du verbe : _____</td>
+					<td>Des dommages <strong>sont causés</strong> par la tempête.<br />groupe verbal : _____<br />temps du verbe être : _____</td>
+				</tr>
+				<tr>
+					<td><p> </p>Des inondations <strong>feront</strong> des dégâts.<br />groupe verbal : _____<br />temps du verbe : _____</td>
+					<td><p> </p>Des dégâts <strong>seront faits</strong> par les inondations.<br />groupe verbal : _____<br />temps du verbe être : _____</td>
+				</tr>
+				<tr>
+					<td><p> </p>Les rafales <strong>ont déraciné</strong> les arbres.<br />groupe verbal : _____<br />temps du verbe : _____</td>
+					<td><p> </p>Les arbres <strong>ont été déracinés</strong> par les rafales.<br />groupe verbal : _____<br />temps du verbe être : _____</td>
+				</tr>
+				<tr>
+					<td><p> </p>La pluie <strong>avait gêné</strong> les pompiers.<br />groupe verbal : _____<br />temps du verbe : _____</td>
+					<td><p> </p>Les pompiers <strong>avaient été gênés</strong> par la pluie.<br />groupe verbal : _____<br />temps du verbe être : _____</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<table>
+				<tr class="underline">
+					<th width="50%">Phrases actives</th>
+					<th width="50%">Phrases passives</th>
+				</tr>
+				<tr>
+					<td>La tempête <strong>cause</strong> des dommages.<br />groupe verbal : <span class="orange">cause</span><br />temps du verbe : <span class="orange">présent</span></td>
+					<td>Des dommages <strong>sont causés</strong> par la tempête.<br />groupe verbal : <span class="orange">sont causés</span><br />temps du verbe être : <span class="orange">présent</span></td>
+				</tr>
+				<tr>
+					<td><p> </p>Des inondations <strong>feront</strong> des dégâts.<br />groupe verbal : <span class="orange">feront</span><br />temps du verbe : <span class="orange">futur simple</span></td>
+					<td><p> </p>Des dégâts <strong>seront faits</strong> par les inondations.<br />groupe verbal : <span class="orange">seront faits</span><br />temps du verbe être : <span class="orange">futur simple</span></td>
+				</tr>
+				<tr>
+					<td><p> </p>Les rafales <strong>ont déraciné</strong> les arbres.<br />groupe verbal : <span class="orange">ont déraciné</span><br />temps du verbe : <span class="orange">passé composé</span></td>
+					<td><p> </p>Les arbres <strong>ont été déracinés</strong> par les rafales.<br />groupe verbal : <span class="orange">ont été déracinés</span><br />temps du verbe être : <span class="orange">passé composé</span></td>
+				</tr>
+				<tr>
+					<td><p> </p>La pluie <strong>avait gêné</strong> les pompiers.<br />groupe verbal : <span class="orange">avait gêné</span><br />temps du verbe : <span class="orange">plus-que-parfait</span></td>
+					<td><p> </p>Les pompiers <strong>avaient été gênés</strong> par la pluie.<br />groupe verbal : <span class="orange">avaient été gênés</span><br />temps du v. être: <span class="orange">plus-que-parfait</span></td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	
+	<sidebar>
+	<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+			<p><strong>Observation réfléchie de la langue - le passif, niveau intermédiaire et avancé</strong></p>
+			<p><strong>"Emma" laisse derrière elle 13 morts</strong></p>
+			<p><em>Texte adapté du quotidien Le Figaro 02/03/2008</em></p>
+			<div style="float:left;padding-right:10px;">
+				<img src="media/m15_image1.jpg" />
+				<p><strong>Une rue de Budapest<br /> dimanche matin, après<br />une nuit de tempête.</strong></p>
+			</div>
+			<p><strong>La tempête meurtrière, qui a balayé l'est de l'Europe ce weekend, a causé des millions d'euros de dégâts.</strong></p>
+			<p>« Emma » a fini par se calmer dimanche en fin d'après-midi. La tempête, qui a balayé l'Europe avec des vents à 200 km/h, a fait 13 victimes au total. En Allemagne, quatre hommes et une femme sont morts dans des accidents de la route qui ont été provoqués par les rafales violentes et les chutes d'arbres. En République tchèque, une fillette de 11 ans a été écrasée par la chute d'un arbre et un homme de 80 ans a été tué par la chute d'un morceau de métal. Quatre personnes ont été tuées en Autriche par des chutes d'arbres. Une personne a été écrasée pas sa caravane, qui s'est retournée sous l'effet du vent. Et la tempête a tué deux automobilistes en Pologne, l'un a été mortellement blessé par un bout de tôle qui s'est arrachée de la remorque d'un camion.</p>
+			<p><strong>Des dizaines de millions d'euros de dégâts</strong></p>
+			<p>Berlin évalue les dommages à « plusieurs dizaines de millions d'euros ». Des routes et des lignes de chemins de fer ont été fermées par les autorités. Notre équipe de journalistes est donc passée par Amsterdam.</p>
+	</div>
+	</sidebar>
+</flashcard>
