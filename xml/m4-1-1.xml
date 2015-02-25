@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br />
+			<img src="media/m16_image1.jpg" style="position:absolute;" />
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">La seule étape un peu délicate consiste à percer les marrons. Plier un torchon en 4 pour se protéger la main avant de percer les marrons avec un tire-bouchon. Les marrons frais sont faciles à percer, pour les autres il suffit de les faire tremper pour les ramollir.
+			</p>
+		]]>
+	</definition>
+	<sidebar>
+		<![CDATA[
+			<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+			<p><strong>Utilisez ce texte pour les questions 1 à 10.</strong></p>
+			<p><strong>Les consignes à mettre en ordre chronologique</strong></p>
+
+			<p>Remettez l’ensemble de ces étapes dans l’ordre pour pouvoir réaliser correctement ce bricolage.</p>
+			<ol>
+				<li>Ensuite, coller des yeux mobiles ou en papier.</li>
+				<li>D'abord, couper les bâtonnets de bois pour faire les pattes, les bras ... des animaux</li>
+				<li>Enfin, les marrons peuvent être assemblés sans être collés, mais un point de colle permet de solidifier le bricolage.</li>
+				<li>La seule étape un peu délicate consiste à percer les marrons. Plier un torchon en 4 pour se protéger la main avant de percer les marrons avec un tire-bouchon. Les marrons frais sont faciles à percer, pour les autres il suffit de les faire tremper pour les ramollir.</li>
+				<li>Puis, enfiler les bâtonnets dans les trous des marrons et assembler les marrons les uns sur les autres pour faire des animaux.</li>
+				</ol>
+				
+			<p>Les enfants adorent ramasser les <strong>marrons</strong> en <strong>automne</strong>, c'est donc l'occasion de retrouver le plaisir de fabriquer des <strong>animaux</strong> avec leurs marrons.</p>
+			</div>
+		]]>
+	</sidebar>
+</flashcard>
