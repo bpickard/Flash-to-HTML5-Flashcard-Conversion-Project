@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br />
+		<p>Dans le tableau suivant, indiquez les verbes à l'infinitif, à l'impératif et au subjonctif qui sont </p>
+		<table>
+			<tr class="underline">
+				<th>Verbe à l'infinitif (tous)</th>
+				<th>Verbe à l'impératif (les 10 premiers)</th>
+				<th>Verbe au subjonctif (tous)</th>
+			</tr>
+			<tr>
+				<td>a)</td>
+				<td>b)</td>
+				<td>c)</td>
+			</tr>
+		</table>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<table>
+			<tr class="underline">
+				<th width="30%">Verbe à l'infinitif (tous)</th>
+				<th width="30%">Verbe à l'impératif (les 10 premiers)</th>
+				<th width="40%">Verbe au subjonctif (tous)</th>
+			</tr>
+			<tr>
+				<td>a)</td>
+				<td>b)</td>
+				<td>c)</td>
+			</tr>
+			<tr class="orange">
+				<td>Déboucher</td>
+				<td>Remettez</td>
+				<td>Que vous placiez</td>
+			</tr>
+			<tr class="orange">
+				<td>Retirer</td>
+				<td>Consultez</td>
+				<td>Que vous retiriez</td>
+			</tr>
+			<tr class="orange">
+				<td>Utiliser</td>
+				<td>Demandez</td>
+				<td>Que vous essayiez</td>
+			</tr>
+			<tr class="orange">
+				<td>Remettre</td>
+				<td>Appuyez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Déboucher</td>
+				<td>Mouillez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Fermer</td>
+				<td>Insérez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Retirer</td>
+				<td>Transmettez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Nettoyer</td>
+				<td>Retirez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Réinstaller</td>
+				<td>Recommencez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Déboucher</td>
+				<td>Remettez</td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Appeler</td>
+				<td> </td>
+				<td> </td>
+			</tr>
+			<tr class="orange">
+				<td>Déboucher</td>
+				<td> </td>
+				<td> </td>
+			</tr>
+		</table>
+		]]> 
+	</definition>
+	<sidebar>
+	</sidebar>
+</flashcard>

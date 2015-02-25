@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Dans le même texte relevez les verbes qui expriment la volonté, la possibilité, le souhait ou la défense et placez les dans la première colonne. Puis relevez les verbes placés dans la colonne suivante.</p>
+			<table>
+				<tr class="underline">
+					<td>Verbes exprimant la volonté, la possibilité, le souhait, les sentiments ou la défense</td>
+					<td>Verbe qui suit le verbe exprimant la volonté, la possibilité, le souhait, les sentiments ou la défense.</td>
+				</tr>
+				<tr>
+					<td>Je veux qu'<br />a)________</td>
+					<td>il ait<br />b)________</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+	<definition>
+		<![CDATA[
+			<br />
+			<table>
+				<tr class="underline">
+					<td>Verbes exprimant la volonté, la possibilité, le souhait, les sentiments ou la défense</td>
+					<td>Verbe qui suit le verbe exprimant la volonté, la possibilité, le souhait, les sentiments ou la défense.</td>
+				</tr>
+				<tr>
+					<td>Je veux qu'</td>
+					<td>il ait</td>
+				</tr>
+				<tr class="orange">
+					<td>Je voudrais qu'</td>
+					<td>Il ait</td>
+				</tr>
+				<tr class="orange">
+					<td>J'aimerais qu'</td>
+					<td>Il puisse</td>
+				</tr>
+				<tr class="orange">
+					<td>J'exige qu'</td>
+					<td>Il sache</td>
+				</tr>
+				<tr class="orange">
+					<td>J'exige qu'</td>
+					<td>Il en fasse</td>
+				</tr>
+				<tr class="orange">
+					<td>Je souhaite qu'</td>
+					<td>Il ait</td>
+				</tr>
+				<tr class="orange">
+					<td>J'ai envie qu'</td>
+					<td>Il soit</td>
+				</tr>
+				<tr class="orange">
+					<td>J'ai envie qu'</td>
+					<td>Il me rende</td>
+				</tr>
+				<tr class="orange">
+					<td>J'exige qu'</td>
+					<td>il me dise</td>
+				</tr>
+				<tr class="orange">
+					<td>Je n'aimerais pas qu'</td>
+					<td>Il veuille</td>
+				</tr>
+				<tr class="orange">
+					<td>Je n'aimerais pas que</td>
+					<td>Ses parents viennent</td>
+				</tr>
+				<tr class="orange">
+					<td>J'accepte qu'</td>
+					<td>Il aille</td>
+				</tr>
+				<tr class="orange">
+					<td>J'accepte qu'</td>
+					<td>Il leur écrive</td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	<sidebar>
+		<![CDATA[
+			<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+			<p><strong>Utilisez ce texte pour les questions 1 à 7.</strong></p>
+			<p><strong><u>Roméo, où es-tu? (par Rozalia Szabo)</u></strong><br />
+			<em>À l’agence matrimoniale, Mademoiselle Exigeante cherche un mari, mais pas n’importe lequel.</em></p>
+
+			<p><strong><em>Le directeur de l’agence :</strong></em> Oui, Mademoiselle, nous nous spécialisons dans les cas difficiles, mais nous avons toujours réussi, jusqu’à présent… Décrivez-moi l’homme que vous aimeriez épouser.<br />
+			<strong><em>Mademoiselle Exigeante :</strong></em> Il faut qu’il soit beau et il faut qu’il soit grand.<br />
+			<strong><em>Le directeur de l’agence :</strong></em> Très bien, et… sa classe sociale ?<br />
+			<strong><em>Mademoiselle Exigeante :</strong></em> Je veux qu’il ait de l’argent, je voudrais même qu’il ait beaucoup d’argent.<br />
+			<strong><em>Le directeur de l’agence :</strong></em> Pourquoi ?<br />
+			<strong><em>Mademoiselle Exigeante :</strong></em> Eh bien voyons ! J’aimerais simplement qu’il puisse m’offrir tout ce que je veux.<br />
+			<strong><em>Le directeur de l’agence :</strong></em> Je vois. Est-ce que vous l’aimeriez sportif ?<br />
+			<strong><em>Mademoiselle Exigeante :</strong></em> Certainement ! J’exige qu’il sache jouer au tennis, au golf, etc… et qu’il en fasse régulièrement.<br />
+			<strong><em>Le directeur de l’agence :</strong></em> Et du point de vue caractère ?<br />
+			<strong><em>Mademoiselle Exigeante :</strong></em> Alors là, j’ai beaucoup de choses à dire, mais en résumé je souhaite qu’il ait bon caractère et j’espère qu’il me comprendra. J’ai envie qu’il soit follement amoureux de moi et qu’il me rende très heureuse. Il faut que nous ayons les mêmes goûts et que nous fassions tout ensemble. J’exige qu’il me dise tout.<br />
+			<strong><em>Le directeur de l’agence :</strong></em> Hum… Et quels devraient être ses rapports avec sa famille ?<br />
+			<strong><em>Mademoiselle Exigeante :</strong></em> Ah, je n’aimerais pas qu’il veuille les voir tout le temps ni que ses parents viennent chez nous trop souvent. J’accepte qu’il aille chez eux  une fois par mois et qu’il leur écrive des courriels de temps en temps. C’est tout. 
+			Où est-ce que je vais rencontrer l’homme de ma vie ?<br />
+			<strong><em>Le directeur de l’agence :</strong></em> Probablement au musée des oiseaux rares Mademoiselle !
+		]]>
+	</sidebar>
+</flashcard>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+		<br />
+		<p>Créez trois phrases qui montrent une intensité différente dans l'injonction (si nécessaire, indiquez qui parle à qui).</p>
+		<p>a)__________________________</p>
+		<p>b)__________________________</p>
+		<p>c)__________________________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p class="orange">a) Nettoyer votre évier - (On s'adresse à une audience inconnue. On explique comment nettoyer un évier en général).</p>
+			<p class="orange">b) Prenez une brosse, s'il vous plaît - (La maîtresse de maison s'adresse à sa femme de ménage).</p>
+			<p class="orange">c) Il faut que vous me débouchiez ce lavabo avant ce soir - (On s'adresse au plombier avec autorité car il n'a rien fait depuis trois jours).</p>
+		]]> 
+	</definition>
+	<sidebar>
+	</sidebar>
+</flashcard>
