@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p><strong>Observation réfléchie de la langue</strong></p>
+			<p>Relevez les verbes du texte. Dans la première colonne, écrivez les verbes qui ont un sujet et indiquez le sujet de ces verbes comme dans l'exemple. Dans la deuxième colonne, indiquez les verbes qui n'ont pas de sujet.</p>
+			<table>
+				<tr>
+					<td>Verbes qui ont un sujet</td>
+					<td>Verbes qui n'ont pas de sujet</td>
+				</tr>
+				<tr>
+					<td>a) Tu viens -- Sujet : tu</td>
+					<td>b) Allons-y</td>
+				</tr>
+			</table>
+		]]>
+	</term>
+	<definition>
+		<![CDATA[
+			<br />
+			<table>
+				<tr>
+					<td>Verbes qui ont un sujet</td>
+					<td>Verbes qui n'ont pas de sujet</td>
+				</tr>
+				<tr>
+					<td>a) Tu viens - Sujet : tu</td>
+					<td>b) Allons-y</td>
+				</tr>
+				<tr class="orange">
+					<td>On va - Sujet : On</td>
+					<td>Viens</td>
+				</tr>
+				<tr class="orange">
+					<td>Ils ne sont pas - Sujet : ils</td>
+					<td>Attends</td>
+				</tr>
+				<tr class="orange">
+					<td>Les oignons sont - Sujet : Les oignons</td>
+					<td>Prenons</td>
+				</tr>
+				<tr class="orange">
+					<td>Tu veux - Sujet : tu</td>
+					<td>Dites-moi</td>
+				</tr>
+				<tr class="orange">
+					<td>Je vais - Sujet : je</td>
+					<td>Donnez-moi</td>
+				</tr>
+				<tr class="orange">
+					<td>Je n'en ai pas - Sujet : je</td>
+					<td>Achetons</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Reste</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td> Choisis</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Va</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Rejoins-moi</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Achète</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Laisse</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Donne-moi</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Vas-y</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>Garde</td>
+				</tr>
+				<tr class="orange">
+					<td> </td>
+					<td>N'oublie pas</td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	<sidebar>
+		<![CDATA[
+			<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+			<p><strong>Utilisez ce texte pour les questions 1 à 9.</strong></p>
+			<div>
+				<img src="media/m19_image1.jpg"/>
+				<p><a href="http://www.ville-nevers.fr/les-march">http://www.ville-nevers.fr/les-march</a></p>
+			</div>
+			<p><strong><u>Au marché</u></strong><br />
+			
+			<p><strong>Joy :</strong> Tu viens au marché avec moi ?<br />
+			<strong>Victoria :</strong> D'accord, allons-y !<br />
+			<strong>Joy :</strong> Viens, on va commencer ici. Non, attends, ils ont de plus beaux légumes en face. Prenons des
+			laitues et des oignons, ils ne sont pas chers. Pardon Monsieur, dites-moi si les oignons rouges sont plus forts que les oignons blancs ?<br />
+			<strong>Le vendeur:</strong> Oui, les oignons rouges sont toujours plus forts en gout.<br />
+			<strong>Joy :</strong> D'accord. Donnez-moi une livre d'oignons rouges. Victoria, tu veux des oranges ?<br />
+			<strong>Victoria :</strong> Oui, achetons un plateau de 2 kilos.<br />
+			<strong>Joy :</strong> D'accord. Reste-là, choisis les plus grosses. Puis va payer s'il te plaît et rejoins-moi. Je vais
+			acheter un saucisson. Achète aussi 2 paniers de fraises, merci.<br />
+			<strong>Victoria :</strong> Joy, laisse tes provisions, je vais les prendre mais donne­moi un peu d'argent, je n'en ai
+			pas assez.<br />
+			<strong>Joy :</strong> D'accord, vas-y et garde la monnaie. N'oublie pas les fraises.</p>
+		]]>
+	</sidebar>
+</flashcard>

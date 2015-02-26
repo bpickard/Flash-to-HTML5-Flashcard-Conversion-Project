@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Conjuguez un verbe de chaque groupe en « er », « ir », « re », (comme aimer, finir, prendre) au présent de l'indicatif (vérifiez à l'aide du Bescherelle si vous n'êtes pas certains de vos réponses).</p>
+			<table style="font-size:14pt;">
+				<tr class="underline">
+					<th>Personnes</th>
+					<th>Verbes en 'er'</th>
+					<th>Verbes en 'ir'</th>
+					<th>Verbes en 're'</th>
+				</tr>
+				<tr>
+					<td>Je</td>
+					<td>a) </td>
+					<td>b) </td>
+					<td>c) </td>
+				</tr>
+				<tr>
+					<td>Tu</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Il/Elle</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Nous</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Vous</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Ils/Elles</td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+		]]>
+	</term>
+	<definition>
+		<![CDATA[
+			<br />
+			<table width="300px">
+				<tr class="underline">
+					<td>Personnes</td>
+					<td>Verbes en 'er'</td>
+					<td>Verbes en 'ir'</td>
+					<td>Verbes en 're'</td>
+				</tr>
+				<tr>
+					<td>Je</td>
+					<td class="orange">donne</td>
+					<td class="orange">viens</td>
+					<td class="orange">attends </td>
+				</tr>
+				<tr>
+					<td>Tu</td>
+					<td class="orange">donnes</td>
+					<td class="orange">viens</td>
+					<td class="orange">attends</td>
+				</tr>
+				<tr>
+					<td>Il/Elle</td>
+					<td class="orange">donne</td>
+					<td class="orange">vient</td>
+					<td class="orange">attend</td>
+				</tr>
+				<tr>
+					<td>Nous</td>
+					<td class="orange">donnons</td>
+					<td class="orange">venons</td>
+					<td class="orange">attendons</td>
+				</tr>
+				<tr>
+					<td>Vous</td>
+					<td class="orange">donnez</td>
+					<td class="orange">venez</td>
+					<td class="orange">attendez</td>
+				</tr>
+				<tr>
+					<td>Ils/Elles</td>
+					<td class="orange">donnent</td>
+					<td class="orange">viennent</td>
+					<td class="orange">attendent</td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	<sidebar>
+	</sidebar>
+</flashcard>

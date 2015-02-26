@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<br />
+			<p>Classez les verbes du texte qui sont à l'impératif dans le tableau suivant selon leur groupe (gardez-les à l'impératif).</p>
+			<table style="font-size:14pt;">
+				<tr class="underline">
+					<th>Verbes en « er » (à l'infinitif)</th>
+					<th>Verbes en « ir » (à l'infinitif)</th>
+					<th>Verbes en « re » (à l'infinitif)</th>
+					<th>Verbe aller</th>
+				</tr>
+				<tr>
+					<td>a) </td>
+					<td>b) </td>
+					<td>c) </td>
+					<td)d) </td>
+				</tr>
+			</table>
+		]]>
+	</term>
+	<definition>
+		<![CDATA[
+			<br />
+				<table style="font-size:14pt;" border="1">
+				<tr class="underline">
+					<th width="26%">Verbes en « er » (à l'infinitif)</th>
+					<th width="26%">Verbes en « ir » (à l'infinitif)</th>
+					<th width="26%">Verbes en « re » (à l'infinitif)</th>
+					<th width="22%">Verbe aller</th>
+				</tr>
+				<tr>
+					<td>a) <span class="orange">donnez</span></td>
+					<td>b) <span class="orange">viens</span></td>
+					<td>c) <span class="orange">attends</span></td>
+					<td>d) <span class="orange">allons</span></td>
+				</tr>
+				<tr class="orange">
+					<td>donne</td>
+					<td>choisis</td>
+					<td>prenons</td>
+					<td>vas</td>
+				</tr>
+				<tr class="orange">
+					<td>achetons</td>
+					<td></td>
+					<td>dites</td>
+					<td></td>
+				</tr>
+				<tr class="orange">
+					<td>reste</td>
+					<td></td>
+					<td>rejoins</td>
+					<td></td>
+				</tr>
+				<tr class="orange">
+					<td>laisse</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr class="orange">
+					<td>garde</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr class="orange">
+					<td>n'oublie pas</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+		]]>
+	</definition>
+	<sidebar>
+		<![CDATA[
+			<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
+			<p><strong>Utilisez ce texte pour les questions 1 à 9.</strong></p>
+			<div>
+				<img src="media/m19_image1.jpg"/>
+				<p><a href="http://www.ville-nevers.fr/les-march">http://www.ville-nevers.fr/les-march</a></p>
+			</div>
+			<p><strong><u>Au marché</u></strong><br />
+			
+			<p><strong>Joy :</strong> Tu viens au marché avec moi ?<br />
+			<strong>Victoria :</strong> D'accord, allons-y !<br />
+			<strong>Joy :</strong> Viens, on va commencer ici. Non, attends, ils ont de plus beaux légumes en face. Prenons des
+			laitues et des oignons, ils ne sont pas chers. Pardon Monsieur, dites-moi si les oignons rouges sont plus forts que les oignons blancs ?<br />
+			<strong>Le vendeur:</strong> Oui, les oignons rouges sont toujours plus forts en gout.<br />
+			<strong>Joy :</strong> D'accord. Donnez-moi une livre d'oignons rouges. Victoria, tu veux des oranges ?<br />
+			<strong>Victoria :</strong> Oui, achetons un plateau de 2 kilos.<br />
+			<strong>Joy :</strong> D'accord. Reste-là, choisis les plus grosses. Puis va payer s'il te plaît et rejoins-moi. Je vais
+			acheter un saucisson. Achète aussi 2 paniers de fraises, merci.<br />
+			<strong>Victoria :</strong> Joy, laisse tes provisions, je vais les prendre mais donne­moi un peu d'argent, je n'en ai
+			pas assez.<br />
+			<strong>Joy :</strong> D'accord, vas-y et garde la monnaie. N'oublie pas les fraises.</p>
+		]]>
+	</sidebar>
+</flashcard>
