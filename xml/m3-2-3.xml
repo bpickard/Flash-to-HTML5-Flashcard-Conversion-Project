@@ -4,21 +4,37 @@
 		<![CDATA[
 			<br />
 			<table>
-				<tr class="underline">
+				<tr>
 					<td><strong>Texte</strong></td>
 					<td><strong>Résumez le texte dans vos propres mots</strong></td>
 				</tr>
-				<tr class="underline">
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
 					<td>1<sup>ère</sup> phrase : Beaucoup d'agriculteurs de l'Asie du Sud-est font travailler des buffles d'eau dans les rizières et au transport du bois.</td>
 					<td>a)_____________</td>
 				</tr>
-				<tr class="underline">
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
 					<td>2<sup>ième</sup> phrase : En effet, ces animaux peuvent supporter le climat chaud en s'immergeant souvent dans l'eau ou bien dans la boue dont ils se recouvrent pour se protéger des piqûres d'insectes et des brûlures du soleil.</td>
 					<td>b)____________</td>
 				</tr>
-				<tr class="underline">
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
 					<td>3<sup>ième</sup> phrase : Toutefois, l'utilisation des buffles est menacée par l'utilisation des machines agricoles modernes, qui, elles, n'ont pas besoin de se reposer durant les heures torrides du jour.</td>
 					<td>c)____________</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
 				</tr>
 			</table>
 		]]>
@@ -33,6 +49,5 @@
 		]]>
 	</definition>
 	
-	<sidebar>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>
