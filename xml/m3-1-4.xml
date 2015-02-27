@@ -9,6 +9,7 @@
 			<p style="margin-left:130px;">Présentez l'introduction.<br />
 			b)__________________</p>
 			<p style="margin-left:125px;">Présentez les paragraphes.</p>
+			<p align="center"><img src="media/m12_arrow.png" width="200" style="margin-right:140px;"/></p>
 			<table>
 				<tr>
 					<td>1<sup>er</sup> point - explication + exemple</td>
@@ -35,16 +36,15 @@
 			b) Tout ce que notre société d consommation rejette est un déchet que va metter peut-être des millénairees avant de disparaître.<br />
 			c) Il existe des déchets qui se défradent en quelques mois ou quelques années.<br />
 			d) Ce qui est périssable comme :<br />
-			   - le papier<br />
-			   - les restes de cigarettes<br />
-			   - les fruits ou les légumes<br />
+			   &emsp;- le papier<br />
+			   &emsp;- les restes de cigarettes<br />
+			   &emsp;- les fruits ou les légumes<br />
 			e) Il existe des déchets qui ne se dégradent pas facilement même après des millénaires et qui demandent des processus comme l'oxydation ou des déchets qui ne se dégradent quasiment pas.<br />
 			f) - les canettes en acier<br />
-			   - le verre<br />
+			   &emsp;- le verre<br />
 			g) En attendant que tous ces déchets disparaissent, ils polluent notre planète.
 			</p>	
 		]]>
 	</definition>
-	<sidebar>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>

@@ -14,8 +14,5 @@
 		]]>
 	</definition>
 	
-	<sidebar><![CDATA[
-			<img src="media/m12_image1.jpg" width="440" />
-		 ]]>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>
