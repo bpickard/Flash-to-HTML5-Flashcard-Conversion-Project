@@ -3,47 +3,75 @@
 	<term>
 		<![CDATA[
 			<br />
+			<div style="font-size:16pt">
 			<table>
 				<tr>
 					<td width="40%">Qui parle?<br />L'énonciateur</td>
 					<td width="60%">D'après vous, d'où provient le document?<br />
-					a)__________________</td>
+					a)____________________</td>
 				</tr>
 				<tr>
 					<td><p>À qui?<br />Le destinataire</p></td>
-					<td><p>b)________________</p></td>
+					<td><p>b)____________________</p></td>
 				</tr>
 				<tr>
 					<td>Le message = la transmission d'un savoir</td>
 					<td>De quoi parle le texte?<br />
-					c)_________________</td>
+					c)____________________</td>
 				</tr>
 			</table>
+			</div>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
 			<br />
-			<table cellpadding="6" border="1">
+			<table>
 				<tr>
 					<td width="40%">Qui parle?<br />L'énonciateur</td>
 					<td width="60%">D'après vous, d'où provient le document?<br />
 					<span class="orange">C'est un article sur Internet écrit par un journaliste.</span></td>
 				</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
 				<tr>
 					<td>À qui?<br />Le destinataire</td>
 					<td class="orange">Au public d'Internet qui veut en savoir plus sur l'eau douce de notre planète.</td>
 				</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
 				<tr>
 					<td>Le message = la transmission d'un savoir</td>
 					<td>De quoi parle le texte?<br />
 					<span class="orange">De la raréfaction de l'eau douce dans les 50 ans à venir et do fait que l'eau douce va devenir le bien le plus précieux de notre planète.</td>
 				</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
 			</table>
 		]]>
 	</definition>
 	
 	<sidebar>
+	 <![CDATA[
+		<div style="font-family:verdana;font-size:13px;">
+			<p><strong>L'eau, une source de conflits entre nations</strong></p>
+			<img src="media/m13_image1.png" style="width:300px;"/>
+			<p><strong>Photo : Fishing festival/festival de la pêche</strong></p>
+			<p>Les perspectives en matière d’eau douce ne sont pas réjouissantes puisque, de l’avis général, sa raréfaction semble inéluctable. Or, un pays qui manque d’eau est un pays qui ne peut ni nourrir sa population, ni se développer. D’ailleurs, la consommation en eau par habitant est désormais considérée comme un indicateur du développement économique d'un pays.</p>
+			<p>Selon une étude des Nations Unies, l'eau pourrait même devenir, d'ici à 50 ans, un bien plus précieux que le pétrole. C’est dire toute l’importance de cette ressource que d’aucuns appellent déjà « l’or bleu ». Avoir accès à l’eau est donc devenu un enjeu économique puissant à l’échelle planétaire qui pourrait devenir, dans le siècle à venir, l'une des premières causes de tensions internationales.</p>
+			<p>Il est vrai que plus de 40 % de la population mondiale est établie dans les 250 bassins fluviaux transfrontaliers du globe. Autrement dit, toutes ces populations se trouvent dans l’obligation de partager leurs ressources en eau avec les habitants d'un pays voisin.</p>
+			<p>Or, une telle situation peut être à l'origine de conflits récurrents, notamment lorsqu’un cours d’eau traverse une frontière, car l'eau devient alors un véritable instrument de pouvoir aux mains du pays situé en amont. Qu’il soit puissant ou non, celui­ci a toujours théoriquement l'avantage, puisqu'il a la maîtrise du débit de l'eau.</p>
+			<p>La situation n'est pas récente. En 1503 déjà, Léonard de Vinci conspirait avec Machiavel pour détourner le cours de l'Arno en l’éloignant de Pise, une cité avec laquelle Florence, sa ville natale, était en guerre. Des chercheurs américains ont également montré que depuis le Moyen Âge, les désordres sociaux en Afrique orientale coïncidaient avec les périodes de sécheresse. Dans les sociétés asiatiques, l'eau était un instrument de puissance politique : l'ordre social, les répressions et les crises politiques dépendaient des caprices des pluies. […]</p>
+			<p><a href="http://www.cnrs.fr/cw/dossiers/doseau/decouv/mondial/05_eau.htm" target="_blank">http://www.cnrs.fr/cw/dossiers/doseau/decouv/mondial/05_eau.htm</a></p>
+		</div>
+	 ]]>
 	</sidebar>
+
 </flashcard>
