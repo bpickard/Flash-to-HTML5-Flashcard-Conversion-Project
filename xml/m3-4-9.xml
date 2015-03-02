@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcard>
+	<term>
+		<![CDATA[
+			<p>Les phrases suivantes contiennent-elles des tournures passives? Expliquez votre r&eacute;ponse.</p>
+			<p>&nbsp;</p>
+			<p>En Allemagne, quatre hommes et une femme <strong>sont morts</strong> dans des accidents de la route.</p>
+			<p>a) (Oui/Non)</p>
+			<p>b) _______________________</p>
+		]]>
+	</term>
+
+	<definition>
+		<![CDATA[
+			<br />
+			<p>En Allemagne, quatre hommes et une femme <strong>sont morts</strong> dans des accidents de la route.</p>
+			<p class="orange">a) Non</p>
+			<p class="orange">b) Le sujet « quatre hommes et une femme » fait l'action et il n'y a pas de complément d'agent, le verbe est au passé composé voix active. Mourir se conjugue avec l'auxiliaire être.</p>
+		]]>
+	</definition>
+	
+	<sidebar></sidebar>
+</flashcard>
