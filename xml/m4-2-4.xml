@@ -3,7 +3,6 @@
 	<term>
 		<![CDATA[
 		<br />
-		<p><strong>Outils lexicaux de la partie prescriptive</strong></p>
 		<p>Relevez les 10 premiers mots de vocabulaire spécialisé.</p>
 		]]>
 	</term>
@@ -14,6 +13,5 @@
 			<p class="orange">Débouchoir à ventouse, encolure, bouchon mécanique, mécanisme, tuyau, plomberie, quincaillerie, chiffon, circulation d'air, ruban à conduit.</p>
 		]]> 
 	</definition>
-	<sidebar>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>

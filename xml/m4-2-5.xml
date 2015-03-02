@@ -4,11 +4,12 @@
 		<![CDATA[
 		<br />
 		<p>Dans le tableau suivant, indiquez les verbes à l'infinitif, à l'impératif et au subjonctif qui sont </p>
+		<div style="font-size:14pt;">
 		<table>
 			<tr class="underline">
-				<th>Verbe à l'infinitif (tous)</th>
-				<th>Verbe à l'impératif (les 10 premiers)</th>
-				<th>Verbe au subjonctif (tous)</th>
+				<td width="33%">Verbe à l'infinitif<br/> (tous)</td>
+				<td width="33%">Verbe à l'impératif<br/> (les 10 premiers)</td>
+				<td width="33%">Verbe au subjonctif<br/> (tous)</td>
 			</tr>
 			<tr>
 				<td>a)</td>
@@ -16,6 +17,7 @@
 				<td>c)</td>
 			</tr>
 		</table>
+		</div>
 		]]>
 	</term>
 
@@ -24,9 +26,9 @@
 			<br />
 			<table>
 			<tr class="underline">
-				<th width="30%">Verbe à l'infinitif (tous)</th>
-				<th width="30%">Verbe à l'impératif (les 10 premiers)</th>
-				<th width="40%">Verbe au subjonctif (tous)</th>
+				<td width="30%">Verbe à l'infinitif (tous)</td>
+				<td width="30%">Verbe à l'impératif (les 10 premiers)</td>
+				<td width="40%">Verbe au subjonctif (tous)</td>
 			</tr>
 			<tr>
 				<td>a)</td>
@@ -96,6 +98,5 @@
 		</table>
 		]]> 
 	</definition>
-	<sidebar>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>
