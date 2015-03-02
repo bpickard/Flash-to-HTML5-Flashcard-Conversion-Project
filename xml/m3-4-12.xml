@@ -2,41 +2,24 @@
 <flashcard>
 	<term>
 		<![CDATA[
-		<br />
-			<p>Phrase au passif : a)___________________</p>
-			<p>Sujet grammatical : <br />b)_______________</p>
-			<p>Complément d'agent : c)_______________</p>
-			<p>Temps du verbe au passif : d)_______________</p>
+			<p>Les phrases suivantes contiennent-elles des tournures passives? Expliquez votre r&eacute;ponse.</p>
+			<p>&nbsp;</p>
+			<p><em>Question défi !</em> : La caravane <strong>s'est retournée</strong> sous l'effet du vent.</p>
+			<p>a) (Oui/Non)</p>
+			<p>b) __________________</p>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
 			<br />
-			<p>Phrase au passif : a) <span class="orange">Et la tempête a tué deux automobilistes en Pologne, l'un a été mortellement blessé par un bout de tôle.</span></p>
-			<hr />
-			<p>Sujet grammatical : <br />b) <span class="orange">Un (automobiliste)</span></p>
-			<p>Complément d'agent : <br />c) <span class="orange">Par un bout de tôle</p>
-			<p>Temps du verbe au passif : <br />d) <span class="orange">Passé composé</span></p>
+			<p>La caravane <strong>s'est retournée</strong> sous l'effet du vent.</p>
+			<p class="orange">a) Non</p>
+			<p class="orange">b) Le sujet « la caravane » fait l'action, pas de complément d'agent, verbe réfléchi au passé composé voix active. Les verbes réfléchis se conjuguent avec l'auxiliaire être.
+			</p>
 		]]>
 	</definition>
 	
 	<sidebar>
-		<![CDATA[
-		<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
-			<p><strong>Observation réfléchie de la langue - le passif, niveau intermédiaire et avancé</strong></p>
-			<p><strong>"Emma" laisse derrière elle 13 morts</strong></p>
-			<p><em>Texte adapté du quotidien Le Figaro 02/03/2008</em></p>
-			<hr />
-			<p><strong>La tempête meurtrière, qui a balayé l'est de l'Europe ce weekend, a causé des millions d'euros de dégâts.</strong></p>
-			<p>« Emma » a fini par se calmer dimanche en fin d'après-midi. La tempête, qui a balayé l'Europe avec des vents à 200 km/h, a fait 13 victimes au total. En Allemagne, quatre hommes et une femme sont morts dans des accidents de la route qui ont été provoqués par les rafales violentes et les chutes d'arbres. En République tchèque, une fillette de 11 ans a été écrasée par la chute d'un arbre et un homme de 80 ans a été tué par la chute d'un morceau de métal. Quatre personnes ont été tuées en Autriche par des chutes d'arbres. Une personne a été écrasée pas sa caravane, qui s'est retournée sous l'effet du vent. Et la tempête a tué deux automobilistes en Pologne, l'un a été mortellement blessé par un bout de tôle qui s'est arrachée de la remorque d'un camion.</p>
-			<p><strong>Des dizaines de millions d'euros de dégâts</strong></p>
-			<p>Berlin évalue les dommages à « plusieurs dizaines de millions d'euros ». Des routes et des lignes de chemins de fer ont été fermées par les autorités. Notre équipe de journalistes est donc passée par Amsterdam.</p>
-			<div style="float:left;padding-right:10px;">
-				<img src="media/m15_image1.jpg" />
-				<p><strong>Une rue de Budapest dimanche matin, après une nuit de tempête.</strong></p>
-			</div>
-		</div>
-		]]>
 	</sidebar>
 </flashcard>

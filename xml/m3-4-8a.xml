@@ -2,26 +2,77 @@
 <flashcard>
 	<term>
 		<![CDATA[
-		<br />
-			<p>Phrase au passif : <br />a)_______________</p>
-			<p>Sujet grammatical : <br />b)_______________<br />e)_______________</p>
-			<p>Complément d'agent : <br />c)_______________<br />f)_______________</p>
-			<p>Temps du verbe au passif : <br />d)_______________<br />g)_______________</p>
+			<br/>
+			<div style="font-size:16pt;">
+			<table  cellpadding="6">
+				<tr>
+					<td colspan="3">
+					Phrase au passif:<br/>
+					a)______________________________________
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="33%">Sujet grammatical</td>
+					<td width="33%">Complément d'agent</td>
+					<td width="33%">Temps du verbe au passif</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>b)__________</td>
+					<td>c)__________</td>
+					<td>d)__________</td>
+				</tr>
+			</table>
+			</div>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-			<br />
-			<p>Phrase au passif : a) <span class="orange">En République tchèque, une fillette de 11 ans a été écrasée par la chute d'un arbre et un homme de 80 ans a été tué par la chute d'un morceau de métal.</span></p>
-			<hr />
-			<p>Sujet grammatical : <br />b) <span class="orange">Une fillette</span><br />e) <span class="orange">Un homme</span></p>
-			<p>Complément d'agent : <br />c) <span class="orange">Par la chute d'un arbre</span><br />f) <span class="orange">Par la chute d'un morceau</span></p>
-			<p>Temps du verbe au passif : <br />d) <span class="orange">Passé composé</span><br />g) <span class="orange">Passé composé</span></p>
+			<br/>
+			<div style="font-size:16pt;">
+			<table  cellpadding="6">
+				<tr>
+					<td colspan="3">
+					Phrase au passif:<br/>
+					<span class="orange">En Allemagne, quatre gommes et une femme sont morts dans des accidents de la route qui ont été provoqués par les rafales violentes et les chutes d'arbres.</span>	
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr class="underline">
+					<td width="33%">Sujet grammatical</td>
+					<td width="33%">Complément d'agent</td>
+					<td width="33%">Temps du verbe au passif</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="orange">Des accidents de la route</td>
+					<td class="orange">Les rafales violentes et les chutes d'arbre</td>
+					<td class="orange">Passé composé</td>
+				</tr>
+			</table>
+			</div>
 		]]>
 	</definition>
 	
-	<sidebar>
+<sidebar>
 		<![CDATA[
 		<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
 			<p><strong>Observation réfléchie de la langue - le passif, niveau intermédiaire et avancé</strong></p>

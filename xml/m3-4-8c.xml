@@ -2,23 +2,74 @@
 <flashcard>
 	<term>
 		<![CDATA[
-		<br />
-			<p>Phrase au passif : a)___________________</p>
-			<p>Sujet grammatical : <br />b)_______________</p>
-			<p>Complément d'agent : c)_______________</p>
-			<p>Temps du verbe au passif : d)_______________</p>
+			<br/>
+			<div style="font-size:16pt;">
+			<table  cellpadding="6">
+				<tr>
+					<td colspan="3">
+					Phrase au passif:<br/>
+					a)______________________________________
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="33%">Sujet grammatical</td>
+					<td width="33%">Complément d'agent</td>
+					<td width="33%">Temps du verbe au passif</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>b)__________</td>
+					<td>c)__________</td>
+					<td>d)__________</td>
+				</tr>
+			</table>
+			</div>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-			<br />
-			<p>Phrase au passif : a) <span class="orange">Une personne a été écrasée par sa caravane.</span></p>
-			<hr />
-			<p>Sujet grammatical : <br />b) <span class="orange">Une personne</span></p>
-			<p>Complément d'agent : <br />c) <span class="orange">Par sa caravane</p>
-			<p>Temps du verbe au passif : <br />d) <span class="orange">Passé composé</span></p>
-		]]>
+					<br/>
+			<div style="font-size:16pt;">
+			<table  cellpadding="6">
+				<tr>
+					<td colspan="3">
+					Phrase au passif:<br/>
+					<span class="orange">Quatre personnes one été tuées en Autriche par des chutes d'arbres.</span>
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr class="underline">
+					<td width="33%">Sujet grammatical</td>
+					<td width="33%">Complément d'agent</td>
+					<td width="33%">Temps du verbe au passif</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><span class="orange">Quatre personnes</span></td>
+					<td><span class="orange">Par des chutes d'arbres</span></td>
+					<td><span class="orange">Passé composé</span></td>
+				</tr>
+			</table>
+			</div>	
+				]]>
 	</definition>
 	
 	<sidebar>

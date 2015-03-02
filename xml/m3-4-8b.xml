@@ -2,15 +2,84 @@
 <flashcard>
 	<term>
 		<![CDATA[
-			<p>Comparez le temps du verbe des phrases à la voix active et le temps de verbe être dans les phrases passives.</p>
-			<p>Que remarquez-vous ?</p>
+			<br/>
+			<div style="font-size:16pt;">
+			<table  cellpadding="6">
+				<tr>
+					<td colspan="3">
+					Phrase au passif:<br/>
+					a)______________________________________
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="33%">Sujet grammatical</td>
+					<td width="33%">Complément d'agent</td>
+					<td width="33%">Temps du verbe au passif</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td>b)__________</td>
+					<td>c)__________</td>
+					<td>d)__________</td>
+				</tr>
+				<tr>
+					<td>e)__________</td>
+					<td>f)__________</td>
+					<td>g)__________</td>
+				</tr>
+				</table>
+			</div>
 		]]>
 	</term>
 
 	<definition>
 		<![CDATA[
-			<br />
-			<p class="orange">C'est toujours le même temps de conjugaison.</p>
+			<br/>
+			<div style="font-size:16pt;">
+			<table  cellpadding="6">
+				<tr>
+					<td colspan="3">
+						Phrase au passif:<br/>
+						<span class="orange">En République tchèque, une fillette de 11 ans a été écrasée par la chute d'un arbre et un homme de 80 ans a été tué par la chute d'un morceau de métal.</span>
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr class="underline">
+					<td width="33%">Sujet grammatical</td>
+					<td width="33%">Complément d'agent</td>
+					<td width="33%">Temps du verbe au passif</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td class="orange">Une fillette</td>
+					<td class="orange">Par la chute d'un arbre</td>
+					<td class="orange">Passé composé</td>
+				</tr>
+				<tr>
+					<td class="orange">Un homme</td>
+					<td class="orange">Par la chute d'un morceau</td>
+					<td class="orange">Passé composé</td>
+				</tr>
+				</table>
+			</div>
+			
 		]]>
 	</definition>
 	
