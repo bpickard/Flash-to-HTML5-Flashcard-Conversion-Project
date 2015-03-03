@@ -1,22 +1,59 @@
 <flashcard>
 	<term>
 		<![CDATA[
-			<br />
-			<p>Imaginons la même situation mais le récit d'actions hypothétiques est au passé. Par exemple, imaginez que je veuille parler dans la même phrase des deux actions hypothétiques qui auraient eu lieu l'une après l'autre au passé.</p>
-				<ul>
-					<li>Je cuis le gâteau.</li>
-					<li>Les invités vont le manger sûrement très vite après.</li>
-				</ul>
-			<p>Essayez de compléter la phrase :<br />Quand j'a)________ le gâteau, les invités le b)_________ sûrement très vite.</p>
-			<p>Qu'en déduisez-vous ?<br />
-			Dans un récit au passé quand on veut parler de deux actions hypothétiques qui se passent l'une après l'autre dans le passé, la première action est au c)_______ (indiquez le temps et le mode) et la deuxième est au d)_______ (indiquez le temps et le mode).</p>		
+			<p><strong>Concordance des temps dans les phrases hypothétiques avec « si ».</strong></p>
+			<p>Observez les phrases avec « si » dans le texte et écrivez les règles de concordance de temps.<br />
+			Par exemple, dans la première colonne, si + imparfait. Pour chaque question, écrivez le temps de la principale dans ce cas dans la deuxième colonne puis un exemple pris du texte dans la troisième colonne. Ainsi, vous pourrez déduire le temps à utiliser dans la principale dans les phrases conditionnelles selon le temps de la proposition subordonné commençant par « si ».</p>
+			<table>
+				<tr class="underline">
+					<td>Proposition subordonnée</td>
+					<td>Temps de la proposition principale</td>
+					<td>Exemple du texte</td>
+				</tr>
+				<tr>
+					<td>Si + imparfait</td>
+					<td>a)_______</td>
+					<td>b)_______</td>
+				</tr>
+				<tr>
+					<td>c)_______</td>
+					<td>d)_______</td>
+					<td>e)_______</td>
+				</tr>
+				<tr>
+					<td>f)_______</td>
+					<td>g)_______</td>
+					<td>h)_______</td>
+				</tr>
+			</table>
 		]]>
 	</term>
 	<definition>
 		<![CDATA[
 			<br />
-			<p>Quand j'<span class="orange">aurais cuit</span> le gâteau, les invités le <span class="orange">mangeraient</span> sûrement très vite.</p>
-			<p>Dans un récit au passé quand on veut parler de deux actions hypothétiques qui se passent l'une après l'autre dans le passé, la première action est au <span class="orange">conditionnel passé</span> et la deuxième est au <span class="orange">conditionnel présent</span>.</p>
+			<table style="font-size:14pt;">
+				<tr class="underline">
+					<td>Proposition subordonnée</td>
+					<td>Temps de la proposition principale</td>
+					<td>Exemple du texte</td>
+				</tr>
+				<tr>
+					<td>Si + imparfait</td>
+					<td class="orange">a) Conditionnel présent</td>
+					<td class="orange">b) Si je mangeais... je serais</td>
+				</tr>
+				<tr class="orange">
+					<td>c) Si + présent</td>
+					<td>d) Futur simple</td>
+					<td>e) Si je fume... mes enfants fumeront</td>
+				</tr>
+				<tr class="orange">
+					<td>f) Si + plus-que-parfait</td>
+					<td>g) Conditionnel passé</td>
+					<td>h) Si j'avais su... je n'aurais jamais commencé</td>
+				</tr>
+			</table>
+			<p>* Attention, on peut trouver « si » au début d'une proposition suivi du conditionnel, dans le discours indirect (module 6). Par exemple, « Elle lui demande si ses cousins viendraient à la fête ». Dans ce cas, le « si » est employé pour indiquer qu'il s'agit d'une question dans le discours direct et le verbe au conditionnel indique qu'il s'agit d'une hypothèse ou possibilité.</p> 
 		]]>
 	</definition>
 	<sidebar>
