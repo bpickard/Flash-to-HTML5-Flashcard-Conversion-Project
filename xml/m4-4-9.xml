@@ -4,31 +4,34 @@
 		<![CDATA[
 			<br />
 			<p>Classez les verbes du texte qui sont à l'impératif dans le tableau suivant selon leur groupe (gardez-les à l'impératif).</p>
-			<table style="font-size:14pt;">
+			<div style="font-size:12pt;">
+			<table>
 				<tr class="underline">
-					<th>Verbes en « er » (à l'infinitif)</th>
-					<th>Verbes en « ir » (à l'infinitif)</th>
-					<th>Verbes en « re » (à l'infinitif)</th>
-					<th>Verbe aller</th>
+					<td>Verbes en « er »<br/> (à l'infinitif)</td>
+					<td>Verbes en « ir »<br/> (à l'infinitif)</td>
+					<td>Verbes en « re »<br/> (à l'infinitif)</td>
+					<td>Verbe aller</td>
 				</tr>
 				<tr>
 					<td>a) </td>
 					<td>b) </td>
 					<td>c) </td>
-					<td)d) </td>
+					<td>d) </td>
 				</tr>
 			</table>
+			</div>
 		]]>
 	</term>
 	<definition>
 		<![CDATA[
 			<br />
-				<table style="font-size:14pt;" border="1">
+				<div style="font-size:12pt;">
+				<table>
 				<tr class="underline">
-					<th width="26%">Verbes en « er » (à l'infinitif)</th>
-					<th width="26%">Verbes en « ir » (à l'infinitif)</th>
-					<th width="26%">Verbes en « re » (à l'infinitif)</th>
-					<th width="22%">Verbe aller</th>
+					<td width="27%">Verbes en « er »<br/>(à l'infinitif)</td>
+					<td width="27%">Verbes en « ir »<br/>(à l'infinitif)</td>
+					<td width="27%">Verbes en « re »<br/>(à l'infinitif)</td>
+					<td width="19%">Verbe aller</td>
 				</tr>
 				<tr>
 					<td>a) <span class="orange">donnez</span></td>
@@ -73,30 +76,28 @@
 					<td></td>
 				</tr>
 			</table>
+			</div>
 		]]>
 	</definition>
 	<sidebar>
 		<![CDATA[
-			<div style="font-family:Arial, Helvetica, sans-serif;font-size:14px;">
-			<p><strong>Utilisez ce texte pour les questions 1 à 9.</strong></p>
+			<div style="font-family:Verdana, sans-serif;font-size:12px;line-height:2ex;">
+			<p><strong>Lisez le texte suivant.</strong></p>
 			<div>
 				<img src="media/m19_image1.jpg"/>
-				<p><a href="http://www.ville-nevers.fr/les-march">http://www.ville-nevers.fr/les-march</a></p>
 			</div>
-			<p><strong><u>Au marché</u></strong></p>
+			<p><strong><u>Au marché</u></strong><p/>
 			
-			<p><strong>Joy :</strong> Tu viens au marché avec moi ?<br />
-			<strong>Victoria :</strong> D'accord, allons-y !<br />
-			<strong>Joy :</strong> Viens, on va commencer ici. Non, attends, ils ont de plus beaux légumes en face. Prenons des
-			laitues et des oignons, ils ne sont pas chers. Pardon Monsieur, dites-moi si les oignons rouges sont plus forts que les oignons blancs ?<br />
-			<strong>Le vendeur:</strong> Oui, les oignons rouges sont toujours plus forts en gout.<br />
-			<strong>Joy :</strong> D'accord. Donnez-moi une livre d'oignons rouges. Victoria, tu veux des oranges ?<br />
-			<strong>Victoria :</strong> Oui, achetons un plateau de 2 kilos.<br />
-			<strong>Joy :</strong> D'accord. Reste-là, choisis les plus grosses. Puis va payer s'il te plaît et rejoins-moi. Je vais
-			acheter un saucisson. Achète aussi 2 paniers de fraises, merci.<br />
-			<strong>Victoria :</strong> Joy, laisse tes provisions, je vais les prendre mais donne­moi un peu d'argent, je n'en ai
-			pas assez.<br />
-			<strong>Joy :</strong> D'accord, vas-y et garde la monnaie. N'oublie pas les fraises.</p>
+			<p><strong>Joy :</strong> Tu viens au marché avec moi ?</p>
+			<p><strong>Victoria :</strong> D'accord, allons-y !</p>
+			<p><strong>Joy :</strong> Viens, on va commencer ici. Non, attends, ils ont de plus beaux légumes en face. Prenons des laitues et des oignons, ils ne sont pas chers. Pardon Monsieur, dites-moi si les oignons rouges sont plus forts que les oignons blancs ?</p>
+			<p><strong>Le vendeur:</strong> Oui, les oignons rouges sont toujours plus forts en gout.</p>
+			<p><strong>Joy :</strong> D'accord. Donnez-moi une livre d'oignons rouges. Victoria, tu veux des oranges ?</p>
+			<p><strong>Victoria :</strong> Oui, achetons un plateau de 2 kilos.</p>
+			<p><strong>Joy :</strong> D'accord. Reste-là, choisis les plus grosses. Puis va payer s'il te plaît et rejoins-moi. Je vais acheter un saucisson. Achète aussi 2 paniers de fraises, merci.</p>
+			<p><strong>Victoria :</strong> Joy, laisse tes provisions, je vais les prendre mais donne­moi un peu d'argent, je n'en ai pas assez.</p>
+			<p><strong>Joy :</strong> D'accord, vas-y et garde la monnaie. N'oublie pas les fraises.</p>
+			</div>
 		]]>
 	</sidebar>
 </flashcard>

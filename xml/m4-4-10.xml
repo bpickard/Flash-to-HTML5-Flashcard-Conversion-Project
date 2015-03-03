@@ -4,56 +4,65 @@
 		<![CDATA[
 			<br />
 			<p>Conjuguez un verbe de chaque groupe en « er », « ir », « re », (comme aimer, finir, prendre) au présent de l'indicatif (vérifiez à l'aide du Bescherelle si vous n'êtes pas certains de vos réponses).</p>
-			<table style="font-size:14pt;">
+			<div style="font-size:13pt;">
+			<table>
 				<tr class="underline">
-					<th>Personnes</th>
-					<th>Verbes en 'er'</th>
-					<th>Verbes en 'ir'</th>
-					<th>Verbes en 're'</th>
+					<td width="25%">Personnes</td>
+					<td width="25%">'er'</td>
+					<td width="25%">'ir'</td>
+					<td width="25%">'re'</td>
 				</tr>
 				<tr>
 					<td>Je</td>
-					<td>a) </td>
-					<td>b) </td>
-					<td>c) </td>
+					<td>a)</td>
+					<td>b)</td>
+					<td>c)</td>
 				</tr>
 				<tr>
 					<td>Tu</td>
-					<td></td>
-					<td></td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>Il/Elle</td>
-					<td></td>
-					<td></td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>Nous</td>
-					<td></td>
-					<td></td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>Vous</td>
-					<td></td>
-					<td></td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>Ils/Elles</td>
-					<td></td>
-					<td></td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
 				</tr>
 			</table>
+		 </div>
 		]]>
 	</term>
 	<definition>
 		<![CDATA[
 			<br />
-			<table width="300px">
+			<p>Conjuguez un verbe de chaque groupe en « er », « ir », « re », (comme aimer, finir, prendre) au présent de l'indicatif (vérifiez à l'aide du Bescherelle si vous n'êtes pas certains de vos réponses).</p>
+			<div style="font-size:13pt;">
+			<table>
 				<tr class="underline">
-					<td>Personnes</td>
-					<td>Verbes en 'er'</td>
-					<td>Verbes en 'ir'</td>
-					<td>Verbes en 're'</td>
+					<td width="25%">Personnes</td>
+					<td width="25%">'er'</td>
+					<td width="25%">'ir'</td>
+					<td width="25%">'re'</td>
 				</tr>
 				<tr>
 					<td>Je</td>
@@ -92,8 +101,8 @@
 					<td class="orange">attendent</td>
 				</tr>
 			</table>
+			</div>
 		]]>
 	</definition>
-	<sidebar>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>
