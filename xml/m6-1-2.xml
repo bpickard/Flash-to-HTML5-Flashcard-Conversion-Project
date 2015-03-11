@@ -1,13 +1,15 @@
 <flashcard>
 	<term>
 		<![CDATA[
+			<br/>
+			<div style="font-size:16px;">
 			<p><strong>Verbe de la principale au passé</strong></p>
 			<table>
 				<tr class="underline">
-					<td>Phrase au discours direct</td>
-					<td>Phrase au discours indirect</td>
-					<td>Temps de la deuxième proposition au discours direct</td>
-					<td>Temps de la deuxième proposition au discours indirect
+					<td width="25%">Phrase au discours direct</td>
+					<td width="25%">Phrase au discours indirect</td>
+					<td width="25%">Temps de la deuxième proposition au discours direct</td>
+					<td width="25%">Temps de la deuxième proposition au discours indirect
 				</tr>
 				<tr>
 					<td>Il répliqua : « Je fume »</td>
@@ -40,53 +42,53 @@
 					<td>j)_______</td>
 				</tr>
 			</table>
+			</div>
 		]]>
 	</term>
 	<definition>
 		<![CDATA[
 			<br />
+			<div style="font-size:16px;">
 			<table>
 				<tr class="underline">
-					<td>Phrase au discours direct</td>
-					<td>Phrase au discours indirect</td>
-					<td>Temps de la deuxième proposition au discours direct</td>
-					<td>Temps de la deuxième proposition au discours indirect
+					<td width="26%">Phrase au discours direct</td>
+					<td width="25%">Phrase au discours indirect</td>
+					<td width="25%">Temps de la deuxième proposition au discours direct</td>
+					<td width="24%">Temps de la deuxième proposition au discours indirect
 				</tr>
 				<tr>
 					<td>Il répliqua : « Je fume »</td>
 					<td>Il répliqua qu'il fumait</td>
-					<td>a)<span class="orange">Présent</span></td>
-					<td>b)<span class="orange">Imparfait</span></td>
+					<td>a) <span class="orange">Présent</span></td>
+					<td>b) <span class="orange">Imparfait</span></td>
 				</tr>
 				<tr>
 					<td>Il a retorqué : « J'ai tort »</td>
 					<td>Il a retorqué qu'il avait tort.</td>
-					<td>c)<span class="orange">Présent</span></td>
-					<td>d)<span class="orange">Imparfait</span></td>
+					<td>c) <span class="orange">Présent</span></td>
+					<td>d) <span class="orange">Imparfait</span></td>
 				</tr>
 				<tr>
 					<td>Il a argumenté : « Je n'avais pas assez d'argent »</td>
 					<td>Il a argumenté qu'il n'avait pas assez d'argent</td>
-					<td>e)<span class="orange">Imparfait</span></td>
-					<td>f)<span class="orange">Imparfait</span></td>
+					<td>e) <span class="orange">Imparfait</span></td>
+					<td>f) <span class="orange">Imparfait</span></td>
 				</tr>
 				<tr>
 					<td>Il a avoué : « J'ai fumé »</td>
 					<td>Il a avoué qu'il avait fumé</td>
-					<td>g)<span  class="orange">Passé composé</span></td>
-					<td>h)<span  class="orange">Plus-que-parfait</span></td>
+					<td>g) <span  class="orange">Passé composé</span></td>
+					<td>h) <span  class="orange">Plus-que-parfait</span></td>
 				</tr>
 				<tr>
 					<td>Il a acquiescé : « J'ai eu tort »</td>
 					<td>Il a acquiescé qu'il avait eu tort</td>
-					<td>j)<span class="orange">Passé composé</span></td>
-					<td>i)<span class="orange">Plus-que-parfait</span></td>
+					<td>j) <span class="orange">Passé composé</span></td>
+					<td>i) <span class="orange">Plus-que-parfait</span></td>
 				</tr>
 			</table>
+			</div>
 		]]>
 	</definition>
-	<sidebar>
-		<![CDATA[
-		]]>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>

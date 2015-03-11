@@ -61,8 +61,5 @@
 			</table>
 		]]>
 	</definition>
-	<sidebar>
-		<![CDATA[
-		]]>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>

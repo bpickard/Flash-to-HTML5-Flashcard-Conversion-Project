@@ -4,10 +4,10 @@
 			<p><strong>Verbe de la principale au présent, au futur ou au conditionnel présent</strong></p>
 			<table>
 				<tr class="underline">
-					<td>Phrase au discours direct</td>
-					<td>Phrase au discours indirect</td>
-					<td>Temps de la deuxième proposition au discours direct</td>
-					<td>Temps de la deuxième proposition au discours indirect
+					<td width="25%">Phrase au discours direct</td>
+					<td width="25%">Phrase au discours indirect</td>
+					<td width="25%">Temps de la deuxième proposition au discours direct</td>
+					<td width="25%">Temps de la deuxième proposition au discours indirect
 				</tr>
 				<tr>
 					<td>Il dit : « Je serai content »</td>
@@ -35,17 +35,19 @@
 				</tr>
 			</table>
 			<p>g) Qu'en déduisez-vous pour ce qui est du verbe de la subordonnée quand le verbe de la principale est au présent, au futur et au conditionnel ?</p>
+			<br/>
 		]]>
 	</term>
 	<definition>
 		<![CDATA[
 			<br />
+			<div style="font-size:15px;">
 			<table>
 				<tr class="underline">
-					<td>Phrase au discours direct</td>
-					<td>Phrase au discours indirect</td>
-					<td>Temps de la deuxième proposition au discours direct</td>
-					<td>Temps de la deuxième proposition au discours indirect
+					<td width="25%">Phrase au discours direct</td>
+					<td width="25%">Phrase au discours indirect</td>
+					<td width="25%">Temps de la deuxième proposition au discours direct</td>
+					<td width="25%">Temps de la deuxième proposition au discours indirect
 				</tr>
 				<tr>
 					<td>Il dit : « Je serai content »</td>
@@ -57,7 +59,7 @@
 					<td>Tu diras : « J'ai tort »</td>
 					<td>Tu diras que tu as tort</td>
 					<td>a) <span class="orange">Présent</span></td>
-					<td class="orange">b) <span class="orange">Présent</span></td>
+					<td>b) <span class="orange">Présent</span></td>
 				</tr>
 				<tr>
 					<td>Tu dirais : « Je suis désolé »</td>
@@ -72,11 +74,9 @@
 					<td>f) <span class="orange">Conditionnel présent</td>
 				</tr>
 			</table>
+			</div>
 			<p class="orange">g) Quand le verbe de la principale est au présent, au futur simple ou au conditionnel présent, le temps du verbe de la subordonnée dans le discours indirect ne change pas.</p>
 		]]>
 	</definition>
-	<sidebar>
-		<![CDATA[
-		]]>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>

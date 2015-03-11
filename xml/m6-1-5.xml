@@ -18,8 +18,5 @@
 			<p>Dans tous les autres cas, il ne change pas.</p>
 		]]>
 	</definition>
-	<sidebar>
-		<![CDATA[
-		]]>
-	</sidebar>
+	<sidebar></sidebar>
 </flashcard>
