@@ -28,9 +28,9 @@
 		<![CDATA[
 			<table>
 				<tr class="underline">
-					<td>Passé simple</td>
-					<td>Imparfait</td>
-					<td>Plus-que-parfait</td>
+					<td width="40%">Passé simple</td>
+					<td width="40%">Imparfait</td>
+					<td width="20%">Plus-que-parfait</td>
 				</tr>
 				<tr>
 					<td>Le berger alla</td>
@@ -69,7 +69,7 @@
 				</tr>
 				<tr class="orange">
 					<td>Quand il eut</td>
-					<td>(fendillés est un adjectif ici)</td>
+					<td><em>(fendillés est un adjectif ici)</em></td>
 				</tr>
 				<tr class="orange">
 					<td>Il s'arrêta</td>
@@ -103,12 +103,12 @@
 				</tr>
 				<tr class="orange">
 					<td>Il le mena</td>
-					<td>J'étais intrigué (intrigué</td>
+					<td>J'étais intrigué <em>(intrigué</em></td>
 					<td> </td>
 				</tr>
 				<tr class="orange">
 					<td>Il trempa</td>
-					<td>est un adjectif ici)</td>
+					<td><em>est un adjectif ici)</em></td>
 					<td> </td>
 				</tr>
 				<tr class="orange">
